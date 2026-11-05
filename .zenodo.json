@@ -1,0 +1,15 @@
+{
+  "title": "Code and data: heterogeneous ensembles for agricultural price forecasting",
+  "upload_type": "software",
+  "description": "Code and data to reproduce the modelling and statistical analyses of the paper 'Heterogeneous ensembles for agricultural price forecasting: a multi-horizon evaluation across markets with different volatility': weekly apple prices in six Indian markets (2013-2022), rolling-origin evaluation at horizons of 1-8 weeks, forecast combination, pooled learners, and an external check on onion prices.",
+  "creators": [
+    {"name": "Gul, Aqib", "affiliation": "Division of Agricultural Statistics, Sher-e-Kashmir University of Agricultural Sciences and Technology, J&K, India", "orcid": "0009-0009-8770-6156"},
+    {"name": "Khan, Imran", "affiliation": "Division of Agricultural Statistics, Sher-e-Kashmir University of Agricultural Sciences and Technology, J&K, India"},
+    {"name": "Mir, S. A.", "affiliation": "Faculty of Agriculture, Sher-e-Kashmir University of Agricultural Sciences and Technology, J&K, India"},
+    {"name": "Nazir, Nageena", "affiliation": "Division of Agricultural Statistics, Sher-e-Kashmir University of Agricultural Sciences and Technology, J&K, India"},
+    {"name": "Shaheen, F. A.", "affiliation": "Institute of Business and Policy Research, Sher-e-Kashmir University of Agricultural Sciences and Technology, J&K, India"}
+  ],
+  "keywords": ["agricultural price forecasting", "forecast combination", "stacking", "multi-horizon evaluation", "rolling origin", "apple markets", "India"],
+  "license": "mit",
+  "access_right": "open"
+}

@@ -1,0 +1,11 @@
+# Environment used for all results (Python 3.10; CPU only)
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+statsmodels==0.14.6
+tensorflow==2.11.0
+xgboost==3.2.0
+joblib==1.5.3
+matplotlib==3.10.9
+pytest==9.1.1

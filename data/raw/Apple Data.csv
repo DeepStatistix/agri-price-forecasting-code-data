@@ -1,0 +1,1549 @@
+state_name,district_name,market_name,date_arrival,Arrival,MIN,MAX,MODAL,Month,Year,Month_name
+Jammu and Kashmir,Srinagar,Parimpore,06-01-2013,233.8485714,2191,2625,2412,1,2013,January
+Jammu and Kashmir,Srinagar,Parimpore,13-01-2013,112.2035714,2099,2428,2263,1,2013,January
+Jammu and Kashmir,Srinagar,Parimpore,20-01-2013,72.54645161,2370,2802,2586,1,2013,January
+Jammu and Kashmir,Srinagar,Parimpore,27-01-2013,32.72,2188,2525,2356,1,2013,January
+Jammu and Kashmir,Srinagar,Parimpore,03-02-2013,49.56391304,2178,2529,2354,2,2013,February
+Jammu and Kashmir,Srinagar,Parimpore,10-02-2013,22.725,2223,2567,2395,2,2013,February
+Jammu and Kashmir,Srinagar,Parimpore,17-02-2013,19.60333333,2242,2567,2404,2,2013,February
+Jammu and Kashmir,Srinagar,Parimpore,24-02-2013,16.48166667,2261,2567,2414,2,2013,February
+Jammu and Kashmir,Srinagar,Parimpore,01-09-2013,165.8787879,1329,1626,1485,9,2013,September
+Jammu and Kashmir,Srinagar,Parimpore,08-09-2013,117.8461538,1325,1658,1492,9,2013,September
+Jammu and Kashmir,Srinagar,Parimpore,15-09-2013,116.2631579,1683,1957,1820,9,2013,September
+Jammu and Kashmir,Srinagar,Parimpore,22-09-2013,216.3,1641,1956,1798,9,2013,September
+Jammu and Kashmir,Srinagar,Parimpore,29-09-2013,487.4253659,1972,2271,2119,9,2013,September
+Jammu and Kashmir,Srinagar,Parimpore,06-10-2013,700.1025641,2195,2385,2290,10,2013,October
+Jammu and Kashmir,Srinagar,Parimpore,13-10-2013,892,2062,2300,2181,10,2013,October
+Jammu and Kashmir,Srinagar,Parimpore,20-10-2013,113.6,1730,1940,1835,10,2013,October
+Jammu and Kashmir,Srinagar,Parimpore,27-10-2013,994.1175,1994,2335,2165,10,2013,October
+Jammu and Kashmir,Srinagar,Parimpore,03-11-2013,898.8695652,1813,2030,1924,11,2013,November
+Jammu and Kashmir,Srinagar,Parimpore,10-11-2013,841.2327273,1735,2049,1890,11,2013,November
+Jammu and Kashmir,Srinagar,Parimpore,17-11-2013,745,1725,2033,1879,11,2013,November
+Jammu and Kashmir,Srinagar,Parimpore,24-11-2013,824.2266667,1703,1971,1835,11,2013,November
+Jammu and Kashmir,Srinagar,Parimpore,01-12-2013,618.55,1694,1934,1814,12,2013,December
+Jammu and Kashmir,Srinagar,Parimpore,08-12-2013,549.856,1602,1915,1756,12,2013,December
+Jammu and Kashmir,Srinagar,Parimpore,15-12-2013,620,1617,1825,1721,12,2013,December
+Jammu and Kashmir,Srinagar,Parimpore,22-12-2013,500.5,1719,1942,1831,12,2013,December
+Jammu and Kashmir,Srinagar,Parimpore,29-12-2013,381,1822,2058,1940,12,2013,December
+Jammu and Kashmir,Srinagar,Parimpore,05-01-2014,261.5,1925,2175,2050,1,2014,January
+Jammu and Kashmir,Srinagar,Parimpore,12-01-2014,141,2100,2350,2225,1,2014,January
+Jammu and Kashmir,Srinagar,Parimpore,19-01-2014,218.0117647,2106,2494,2300,1,2014,January
+Jammu and Kashmir,Srinagar,Parimpore,26-01-2014,82.64333333,1700,1992,1833,1,2014,January
+Jammu and Kashmir,Srinagar,Parimpore,02-02-2014,85.3,1812,2271,2042,2,2014,February
+Jammu and Kashmir,Srinagar,Parimpore,09-02-2014,67.44444444,2267,2578,2411,2,2014,February
+Jammu and Kashmir,Srinagar,Parimpore,16-02-2014,6,1200,1500,1350,2,2014,February
+Jammu and Kashmir,Srinagar,Parimpore,23-02-2014,28.38461538,1823,1877,1735,2,2014,February
+Jammu and Kashmir,Srinagar,Parimpore,07-09-2014,118.7368421,1503,1673,1588,9,2014,September
+Jammu and Kashmir,Srinagar,Parimpore,14-09-2014,118.6052632,1523,1697,1610,9,2014,September
+Jammu and Kashmir,Srinagar,Parimpore,21-09-2014,118.4736842,1543,1721,1632,9,2014,September
+Jammu and Kashmir,Srinagar,Parimpore,28-09-2014,118.3421053,1563,1745,1654,9,2014,September
+Jammu and Kashmir,Srinagar,Parimpore,05-10-2014,118.2105263,1583,1769,1676,10,2014,October
+Jammu and Kashmir,Srinagar,Parimpore,12-10-2014,118.0789474,1603,1793,1698,10,2014,October
+Jammu and Kashmir,Srinagar,Parimpore,19-10-2014,117.9473684,1623,1817,1720,10,2014,October
+Jammu and Kashmir,Srinagar,Parimpore,26-10-2014,117.8157895,1643,1841,1742,10,2014,October
+Jammu and Kashmir,Srinagar,Parimpore,02-11-2014,117.6842105,1663,1865,1764,11,2014,November
+Jammu and Kashmir,Srinagar,Parimpore,09-11-2014,117.5526316,1683,1889,1786,11,2014,November
+Jammu and Kashmir,Srinagar,Parimpore,16-11-2014,117.4210526,1703,1913,1808,11,2014,November
+Jammu and Kashmir,Srinagar,Parimpore,23-11-2014,117.2894737,1723,1937,1830,11,2014,November
+Jammu and Kashmir,Srinagar,Parimpore,30-11-2014,117.1578947,1743,1961,1852,11,2014,November
+Jammu and Kashmir,Srinagar,Parimpore,07-12-2014,117.0263158,1763,1985,1874,12,2014,December
+Jammu and Kashmir,Srinagar,Parimpore,14-12-2014,116.8947368,1784,2009,1896,12,2014,December
+Jammu and Kashmir,Srinagar,Parimpore,21-12-2014,116.7631579,1804,2033,1918,12,2014,December
+Jammu and Kashmir,Srinagar,Parimpore,28-12-2014,116.6315789,1824,2057,1940,12,2014,December
+Jammu and Kashmir,Srinagar,Parimpore,04-01-2015,116.5,1844,2081,1962,1,2015,January
+Jammu and Kashmir,Srinagar,Parimpore,11-01-2015,63.76923077,1935,2223,2079,1,2015,January
+Jammu and Kashmir,Srinagar,Parimpore,18-01-2015,11.72727273,2109,2400,2255,1,2015,January
+Jammu and Kashmir,Srinagar,Parimpore,25-01-2015,9,2600,2800,2700,1,2015,January
+Jammu and Kashmir,Srinagar,Parimpore,01-02-2015,7.875,1956,2144,2050,2,2015,February
+Jammu and Kashmir,Srinagar,Parimpore,08-02-2015,16.6,2080,2260,2170,2,2015,February
+Jammu and Kashmir,Srinagar,Parimpore,15-02-2015,12.73333333,1828,2065,1947,2,2015,February
+Jammu and Kashmir,Srinagar,Parimpore,22-02-2015,8.866666667,1577,1870,1723,2,2015,February
+Jammu and Kashmir,Srinagar,Parimpore,06-09-2015,51.4,2867,3187,3027,9,2015,September
+Jammu and Kashmir,Srinagar,Parimpore,13-09-2015,80.0125,4321,5244,4782,9,2015,September
+Jammu and Kashmir,Srinagar,Parimpore,20-09-2015,279.3714286,3594,4064,3829,9,2015,September
+Jammu and Kashmir,Srinagar,Parimpore,27-09-2015,232.5142857,3954,4698,4326,9,2015,September
+Jammu and Kashmir,Srinagar,Parimpore,04-10-2015,308.9473684,3386,3947,3667,10,2015,October
+Jammu and Kashmir,Srinagar,Parimpore,11-10-2015,981.9565217,2873,3324,3096,10,2015,October
+Jammu and Kashmir,Srinagar,Parimpore,18-10-2015,946.2133333,2318,2787,2551,10,2015,October
+Jammu and Kashmir,Srinagar,Parimpore,25-10-2015,538.8333333,2215,2820,2517,10,2015,October
+Jammu and Kashmir,Srinagar,Parimpore,01-11-2015,665.3,1985,2588,2285,11,2015,November
+Jammu and Kashmir,Srinagar,Parimpore,08-11-2015,833.1111111,2110,2686,2396,11,2015,November
+Jammu and Kashmir,Srinagar,Parimpore,15-11-2015,631.6210526,2057,2614,2333,11,2015,November
+Jammu and Kashmir,Srinagar,Parimpore,22-11-2015,730.552381,2113,2533,2321,11,2015,November
+Jammu and Kashmir,Srinagar,Parimpore,29-11-2015,762.24,2140,2688,2415,11,2015,November
+Jammu and Kashmir,Srinagar,Parimpore,06-12-2015,333.76,2018,2489,2254,12,2015,December
+Jammu and Kashmir,Srinagar,Parimpore,13-12-2015,394.8307692,1908,2316,2113,12,2015,December
+Jammu and Kashmir,Srinagar,Parimpore,20-12-2015,345.7538462,1858,2287,2073,12,2015,December
+Jammu and Kashmir,Srinagar,Parimpore,27-12-2015,296.6769231,1809,2257,2033,12,2015,December
+Jammu and Kashmir,Srinagar,Parimpore,03-01-2016,247.6,1759,2228,1993,1,2016,January
+Jammu and Kashmir,Srinagar,Parimpore,10-01-2016,183.808,1680,2149,1914,1,2016,January
+Jammu and Kashmir,Srinagar,Parimpore,17-01-2016,165.0222222,1815,2153,1983,1,2016,January
+Jammu and Kashmir,Srinagar,Parimpore,24-01-2016,48.73333333,2032,2444,2237,1,2016,January
+Jammu and Kashmir,Srinagar,Parimpore,31-01-2016,6.007142857,1932,2345,2138,1,2016,January
+Jammu and Kashmir,Srinagar,Parimpore,07-02-2016,13.09565217,1896,2270,2082,2,2016,February
+Jammu and Kashmir,Srinagar,Parimpore,14-02-2016,4.8,1749,2138,1941,2,2016,February
+Jammu and Kashmir,Srinagar,Parimpore,21-02-2016,3.80952381,1690,2048,1867,2,2016,February
+Jammu and Kashmir,Srinagar,Parimpore,28-02-2016,3.341176471,1288,1600,1443,2,2016,February
+Jammu and Kashmir,Srinagar,Parimpore,04-09-2016,13.56923077,3556,4066,3812,9,2016,September
+Jammu and Kashmir,Srinagar,Parimpore,11-09-2016,13.46538462,3570,4088,3830,9,2016,September
+Jammu and Kashmir,Srinagar,Parimpore,18-09-2016,13.36153846,3585,4109,3848,9,2016,September
+Jammu and Kashmir,Srinagar,Parimpore,25-09-2016,13.25769231,3599,4130,3865,9,2016,September
+Jammu and Kashmir,Srinagar,Parimpore,02-10-2016,13.15384615,3614,4151,3883,10,2016,October
+Jammu and Kashmir,Srinagar,Parimpore,09-10-2016,13.05,3629,4172,3901,10,2016,October
+Jammu and Kashmir,Srinagar,Parimpore,16-10-2016,12.94615385,3643,4194,3919,10,2016,October
+Jammu and Kashmir,Srinagar,Parimpore,23-10-2016,12.84230769,3658,4215,3937,10,2016,October
+Jammu and Kashmir,Srinagar,Parimpore,30-10-2016,12.73846154,3673,4236,3955,10,2016,October
+Jammu and Kashmir,Srinagar,Parimpore,06-11-2016,12.63461538,3687,4257,3973,11,2016,November
+Jammu and Kashmir,Srinagar,Parimpore,13-11-2016,12.53076923,3702,4279,3991,11,2016,November
+Jammu and Kashmir,Srinagar,Parimpore,20-11-2016,12.42692308,3717,4300,4009,11,2016,November
+Jammu and Kashmir,Srinagar,Parimpore,27-11-2016,12.32307692,3731,4321,4027,11,2016,November
+Jammu and Kashmir,Srinagar,Parimpore,04-12-2016,12.21923077,3746,4342,4045,12,2016,December
+Jammu and Kashmir,Srinagar,Parimpore,11-12-2016,12.11538462,3761,4363,4062,12,2016,December
+Jammu and Kashmir,Srinagar,Parimpore,18-12-2016,12.01153846,3775,4385,4080,12,2016,December
+Jammu and Kashmir,Srinagar,Parimpore,25-12-2016,11.90769231,3790,4406,4098,12,2016,December
+Jammu and Kashmir,Srinagar,Parimpore,01-01-2017,11.80384615,3805,4427,4116,1,2017,January
+Jammu and Kashmir,Srinagar,Parimpore,08-01-2017,11.7,3819,4448,4134,1,2017,January
+Jammu and Kashmir,Srinagar,Parimpore,15-01-2017,11.59615385,3834,4470,4152,1,2017,January
+Jammu and Kashmir,Srinagar,Parimpore,22-01-2017,11.49230769,3848,4491,4170,1,2017,January
+Jammu and Kashmir,Srinagar,Parimpore,29-01-2017,11.38846154,3863,4512,4188,1,2017,January
+Jammu and Kashmir,Srinagar,Parimpore,05-02-2017,11.28461538,3878,4533,4206,2,2017,February
+Jammu and Kashmir,Srinagar,Parimpore,12-02-2017,11.18076923,3892,4554,4224,2,2017,February
+Jammu and Kashmir,Srinagar,Parimpore,19-02-2017,11.07692308,3907,4576,4242,2,2017,February
+Jammu and Kashmir,Srinagar,Parimpore,26-02-2017,10.97307692,3922,4597,4260,2,2017,February
+Jammu and Kashmir,Srinagar,Parimpore,03-09-2017,157,3933,4628,4278,9,2017,September
+Jammu and Kashmir,Srinagar,Parimpore,10-09-2017,210,5006,5872,5442,9,2017,September
+Jammu and Kashmir,Srinagar,Parimpore,17-09-2017,190.8,3853,4533,4193,9,2017,September
+Jammu and Kashmir,Srinagar,Parimpore,24-09-2017,170.625,3500,4125,3812,9,2017,September
+Jammu and Kashmir,Srinagar,Parimpore,01-10-2017,558,3548,4144,3846,10,2017,October
+Jammu and Kashmir,Srinagar,Parimpore,08-10-2017,510,3543,4138,3840,10,2017,October
+Jammu and Kashmir,Srinagar,Parimpore,15-10-2017,486,3377,3960,3669,10,2017,October
+Jammu and Kashmir,Srinagar,Parimpore,22-10-2017,472.5,2400,2714,2559,10,2017,October
+Jammu and Kashmir,Srinagar,Parimpore,29-10-2017,345.6486486,2505,2851,2678,10,2017,October
+Jammu and Kashmir,Srinagar,Parimpore,05-11-2017,414,2550,2940,2745,11,2017,November
+Jammu and Kashmir,Srinagar,Parimpore,12-11-2017,412.5,2581,2940,2760,11,2017,November
+Jammu and Kashmir,Srinagar,Parimpore,19-11-2017,214.2,2698,3218,2958,11,2017,November
+Jammu and Kashmir,Srinagar,Parimpore,26-11-2017,217.5,2709,3224,2967,11,2017,November
+Jammu and Kashmir,Srinagar,Parimpore,03-12-2017,183.7894737,2858,3282,3070,12,2017,December
+Jammu and Kashmir,Srinagar,Parimpore,10-12-2017,182.9032258,2848,3213,3029,12,2017,December
+Jammu and Kashmir,Srinagar,Parimpore,17-12-2017,391.1142857,2669,3077,2873,12,2017,December
+Jammu and Kashmir,Srinagar,Parimpore,24-12-2017,121.5,2750,3117,2933,12,2017,December
+Jammu and Kashmir,Srinagar,Parimpore,31-12-2017,130.25,2408,2838,2623,12,2017,December
+Jammu and Kashmir,Srinagar,Parimpore,07-01-2018,126,1980,2357,2168,1,2018,January
+Jammu and Kashmir,Srinagar,Parimpore,14-01-2018,62.28,2136,2516,2328,1,2018,January
+Jammu and Kashmir,Srinagar,Parimpore,21-01-2018,67.66666667,1919,2222,2070,1,2018,January
+Jammu and Kashmir,Srinagar,Parimpore,28-01-2018,63,1900,2214,2057,1,2018,January
+Jammu and Kashmir,Srinagar,Parimpore,04-02-2018,68,2211,2556,2383,2,2018,February
+Jammu and Kashmir,Srinagar,Parimpore,11-02-2018,63,3200,3600,3400,2,2018,February
+Jammu and Kashmir,Srinagar,Parimpore,18-02-2018,60,3021,3401,3214,2,2018,February
+Jammu and Kashmir,Srinagar,Parimpore,25-02-2018,57,2842,3203,3028,2,2018,February
+Jammu and Kashmir,Srinagar,Parimpore,02-09-2018,85.5,2490,3000,2745,9,2018,September
+Jammu and Kashmir,Srinagar,Parimpore,09-09-2018,91.125,2606,3012,2809,9,2018,September
+Jammu and Kashmir,Srinagar,Parimpore,16-09-2018,87.65217391,2853,3259,3056,9,2018,September
+Jammu and Kashmir,Srinagar,Parimpore,23-09-2018,99.81818182,2550,2852,2701,9,2018,September
+Jammu and Kashmir,Srinagar,Parimpore,30-09-2018,86.04,2780,3240,3012,9,2018,September
+Jammu and Kashmir,Srinagar,Parimpore,07-10-2018,594,2417,2767,2592,10,2018,October
+Jammu and Kashmir,Srinagar,Parimpore,14-10-2018,441,3233,3600,3417,10,2018,October
+Jammu and Kashmir,Srinagar,Parimpore,21-10-2018,630,2967,3383,3175,10,2018,October
+Jammu and Kashmir,Srinagar,Parimpore,28-10-2018,555.75,2875,3262,3069,10,2018,October
+Jammu and Kashmir,Srinagar,Parimpore,04-11-2018,556.0434783,3057,3500,3278,11,2018,November
+Jammu and Kashmir,Srinagar,Parimpore,11-11-2018,189,2402,2794,2598,11,2018,November
+Jammu and Kashmir,Srinagar,Parimpore,18-11-2018,104.75,2938,3288,3112,11,2018,November
+Jammu and Kashmir,Srinagar,Parimpore,25-11-2018,209.0909091,2350,2759,2555,11,2018,November
+Jammu and Kashmir,Srinagar,Parimpore,02-12-2018,220.35,2440,2808,2624,12,2018,December
+Jammu and Kashmir,Srinagar,Parimpore,09-12-2018,134.1818182,1939,2320,2130,12,2018,December
+Jammu and Kashmir,Srinagar,Parimpore,16-12-2018,132.8181818,2103,2479,2291,12,2018,December
+Jammu and Kashmir,Srinagar,Parimpore,23-12-2018,117.3913043,2017,2343,2180,12,2018,December
+Jammu and Kashmir,Srinagar,Parimpore,30-12-2018,117,2374,2771,2574,12,2018,December
+Jammu and Kashmir,Srinagar,Parimpore,06-01-2019,110.8421053,2389,2821,2605,1,2019,January
+Jammu and Kashmir,Srinagar,Parimpore,13-01-2019,74.57142857,2075,2496,2286,1,2019,January
+Jammu and Kashmir,Srinagar,Parimpore,20-01-2019,36.75,2212,2579,2396,1,2019,January
+Jammu and Kashmir,Srinagar,Parimpore,27-01-2019,18,1538,1825,1681,1,2019,January
+Jammu and Kashmir,Srinagar,Parimpore,03-02-2019,9,3033,3867,3450,2,2019,February
+Jammu and Kashmir,Srinagar,Parimpore,10-02-2019,8.133333333,2736,3392,3064,2,2019,February
+Jammu and Kashmir,Srinagar,Parimpore,17-02-2019,7.266666667,2439,2917,2678,2,2019,February
+Jammu and Kashmir,Srinagar,Parimpore,24-02-2019,6.4,2142,2442,2292,2,2019,February
+Jammu and Kashmir,Srinagar,Parimpore,01-09-2019,85.15319149,1748,2150,1949,9,2019,September
+Jammu and Kashmir,Srinagar,Parimpore,08-09-2019,83.19148936,1796,2193,1994,9,2019,September
+Jammu and Kashmir,Srinagar,Parimpore,15-09-2019,81.22978723,1844,2236,2040,9,2019,September
+Jammu and Kashmir,Srinagar,Parimpore,22-09-2019,79.26808511,1891,2279,2085,9,2019,September
+Jammu and Kashmir,Srinagar,Parimpore,29-09-2019,77.30638298,1939,2322,2130,9,2019,September
+Jammu and Kashmir,Srinagar,Parimpore,06-10-2019,75.34468085,1987,2365,2176,10,2019,October
+Jammu and Kashmir,Srinagar,Parimpore,13-10-2019,73.38297872,2035,2408,2221,10,2019,October
+Jammu and Kashmir,Srinagar,Parimpore,20-10-2019,71.4212766,2082,2451,2267,10,2019,October
+Jammu and Kashmir,Srinagar,Parimpore,27-10-2019,69.45957447,2130,2494,2312,10,2019,October
+Jammu and Kashmir,Srinagar,Parimpore,03-11-2019,67.49787234,2178,2537,2357,11,2019,November
+Jammu and Kashmir,Srinagar,Parimpore,10-11-2019,65.53617021,2225,2580,2403,11,2019,November
+Jammu and Kashmir,Srinagar,Parimpore,17-11-2019,63.57446809,2273,2623,2448,11,2019,November
+Jammu and Kashmir,Srinagar,Parimpore,24-11-2019,61.61276596,2321,2666,2493,11,2019,November
+Jammu and Kashmir,Srinagar,Parimpore,01-12-2019,59.65106383,2369,2709,2539,12,2019,December
+Jammu and Kashmir,Srinagar,Parimpore,08-12-2019,57.6893617,2416,2752,2584,12,2019,December
+Jammu and Kashmir,Srinagar,Parimpore,15-12-2019,55.72765957,2464,2795,2630,12,2019,December
+Jammu and Kashmir,Srinagar,Parimpore,22-12-2019,53.76595745,2512,2838,2675,12,2019,December
+Jammu and Kashmir,Srinagar,Parimpore,29-12-2019,51.80425532,2559,2881,2720,12,2019,December
+Jammu and Kashmir,Srinagar,Parimpore,05-01-2020,49.84255319,2607,2924,2766,1,2020,January
+Jammu and Kashmir,Srinagar,Parimpore,12-01-2020,47.88085106,2655,2967,2811,1,2020,January
+Jammu and Kashmir,Srinagar,Parimpore,19-01-2020,45.91914894,2703,3010,2856,1,2020,January
+Jammu and Kashmir,Srinagar,Parimpore,26-01-2020,43.95744681,2750,3053,2902,1,2020,January
+Jammu and Kashmir,Srinagar,Parimpore,02-02-2020,41.99574468,2798,3096,2947,2,2020,February
+Jammu and Kashmir,Srinagar,Parimpore,09-02-2020,40.03404255,2846,3139,2993,2,2020,February
+Jammu and Kashmir,Srinagar,Parimpore,16-02-2020,38.07234043,2893,3182,3038,2,2020,February
+Jammu and Kashmir,Srinagar,Parimpore,23-02-2020,36.1106383,2941,3225,3083,2,2020,February
+Jammu and Kashmir,Srinagar,Parimpore,06-09-2020,42.008,2882,3350,3116,9,2020,September
+Jammu and Kashmir,Srinagar,Parimpore,13-09-2020,192.7727273,3777,4277,4027,9,2020,September
+Jammu and Kashmir,Srinagar,Parimpore,20-09-2020,271.2862069,3679,4166,3922,9,2020,September
+Jammu and Kashmir,Srinagar,Parimpore,27-09-2020,1427.833333,2918,3358,3138,9,2020,September
+Jammu and Kashmir,Srinagar,Parimpore,04-10-2020,1040,2917,3363,3138,10,2020,October
+Jammu and Kashmir,Srinagar,Parimpore,11-10-2020,1295.225806,2906,3374,3140,10,2020,October
+Jammu and Kashmir,Srinagar,Parimpore,18-10-2020,1418.83871,2919,3487,3202,10,2020,October
+Jammu and Kashmir,Srinagar,Parimpore,25-10-2020,621.16,3196,3862,3529,10,2020,October
+Jammu and Kashmir,Srinagar,Parimpore,01-11-2020,1000.669091,2832,3332,3082,11,2020,November
+Jammu and Kashmir,Srinagar,Parimpore,08-11-2020,581.0176471,3053,3621,3341,11,2020,November
+Jammu and Kashmir,Srinagar,Parimpore,15-11-2020,459.3658537,2746,3151,2949,11,2020,November
+Jammu and Kashmir,Srinagar,Parimpore,22-11-2020,365.36,3048,3470,3259,11,2020,November
+Jammu and Kashmir,Srinagar,Parimpore,29-11-2020,214.4489796,2714,3245,2980,11,2020,November
+Jammu and Kashmir,Srinagar,Parimpore,06-12-2020,386.9430303,3297,4067,3682,12,2020,December
+Jammu and Kashmir,Srinagar,Parimpore,13-12-2020,144.592,3288,3760,3524,12,2020,December
+Jammu and Kashmir,Srinagar,Parimpore,20-12-2020,156.8216216,3081,3559,3320,12,2020,December
+Jammu and Kashmir,Srinagar,Parimpore,27-12-2020,47.42,2766,3200,2983,12,2020,December
+Jammu and Kashmir,Srinagar,Parimpore,03-01-2021,36.2,2455,2840,2648,1,2021,January
+Jammu and Kashmir,Srinagar,Parimpore,10-01-2021,7.4,2690,3010,2850,1,2021,January
+Jammu and Kashmir,Srinagar,Parimpore,17-01-2021,1,3539,4104,3821,1,2021,January
+Jammu and Kashmir,Srinagar,Parimpore,24-01-2021,4.384,4030,4555,4292,1,2021,January
+Jammu and Kashmir,Srinagar,Parimpore,31-01-2021,2.6,3815,4375,4095,1,2021,January
+Jammu and Kashmir,Srinagar,Parimpore,07-02-2021,1,3721,4250,3983,2,2021,February
+Jammu and Kashmir,Srinagar,Parimpore,14-02-2021,3.666666667,3683,4208,3946,2,2021,February
+Jammu and Kashmir,Srinagar,Parimpore,21-02-2021,2.391304348,3970,4448,4209,2,2021,February
+Jammu and Kashmir,Srinagar,Parimpore,28-02-2021,2.64536646,3945,4427,4186,2,2021,February
+Jammu and Kashmir,Srinagar,Parimpore,05-09-2021,479.1766968,4865,6163,4756,9,2021,September
+Jammu and Kashmir,Srinagar,Parimpore,12-09-2021,79.26569366,4046,4581,3875,9,2021,September
+Jammu and Kashmir,Srinagar,Parimpore,19-09-2021,242.3141479,4304,4720,4017,9,2021,September
+Jammu and Kashmir,Srinagar,Parimpore,26-09-2021,91.94684601,4585,5257,4469,9,2021,September
+Jammu and Kashmir,Srinagar,Parimpore,03-10-2021,-212.0358276,4995,6035,4134,10,2021,October
+Jammu and Kashmir,Srinagar,Parimpore,10-10-2021,833.9210815,4367,4850,4491,10,2021,October
+Jammu and Kashmir,Srinagar,Parimpore,17-10-2021,292.776062,4526,4976,3916,10,2021,October
+Jammu and Kashmir,Srinagar,Parimpore,24-10-2021,89.78046417,4498,4579,4511,10,2021,October
+Jammu and Kashmir,Srinagar,Parimpore,31-10-2021,1164.469604,5125,5253,5112,10,2021,October
+Jammu and Kashmir,Srinagar,Parimpore,07-11-2021,422.8816528,5003,5270,4323,11,2021,November
+Jammu and Kashmir,Srinagar,Parimpore,14-11-2021,282.8156738,4472,4344,4216,11,2021,November
+Jammu and Kashmir,Srinagar,Parimpore,21-11-2021,199.163269,4346,4238,4156,11,2021,November
+Jammu and Kashmir,Srinagar,Parimpore,28-11-2021,133.430481,4155,4092,3990,11,2021,November
+Jammu and Kashmir,Srinagar,Parimpore,05-12-2021,147.7129517,4211,4590,4185,12,2021,December
+Jammu and Kashmir,Srinagar,Parimpore,12-12-2021,170.706604,3876,3907,3711,12,2021,December
+Jammu and Kashmir,Srinagar,Parimpore,19-12-2021,276.8867188,4340,4643,3826,12,2021,December
+Jammu and Kashmir,Srinagar,Parimpore,26-12-2021,-22.72368813,3989,4684,4326,12,2021,December
+Jammu and Kashmir,Srinagar,Parimpore,02-01-2022,324.8756714,4238,4070,3995,1,2022,January
+Jammu and Kashmir,Srinagar,Parimpore,09-01-2022,380.68396,4015,3964,3789,1,2022,January
+Jammu and Kashmir,Srinagar,Parimpore,16-01-2022,1046.277954,3954,4758,4450,1,2022,January
+Jammu and Kashmir,Srinagar,Parimpore,23-01-2022,438.602478,3800,3778,3565,1,2022,January
+Jammu and Kashmir,Srinagar,Parimpore,30-01-2022,335.8328857,3661,3977,3539,1,2022,January
+Jammu and Kashmir,Srinagar,Parimpore,06-02-2022,314.0739136,3501,3855,3408,2,2022,February
+Jammu and Kashmir,Srinagar,Parimpore,13-02-2022,250.4718628,3576,3967,3656,2,2022,February
+Jammu and Kashmir,Srinagar,Parimpore,20-02-2022,349.6953125,3954,4343,3756,2,2022,February
+Jammu and Kashmir,Srinagar,Parimpore,27-02-2022,44.37836456,3645,4434,4105,2,2022,February
+Jammu and Kashmir,Srinagar,Parimpore,04-09-2022,208.2677612,3478,3641,3269,9,2022,September
+Jammu and Kashmir,Srinagar,Parimpore,11-09-2022,333.9428711,3900,4240,3557,9,2022,September
+Jammu and Kashmir,Srinagar,Parimpore,18-09-2022,437.4076538,3679,3881,3491,9,2022,September
+Jammu and Kashmir,Srinagar,Parimpore,25-09-2022,46.61023712,3094,3390,2983,9,2022,September
+Jammu and Kashmir,Srinagar,Parimpore,02-10-2022,382.4523315,3519,3795,3359,10,2022,October
+Jammu and Kashmir,Srinagar,Parimpore,09-10-2022,539.46521,3509,3469,3345,10,2022,October
+Jammu and Kashmir,Srinagar,Parimpore,16-10-2022,370.7872314,3340,3363,3287,10,2022,October
+Jammu and Kashmir,Srinagar,Parimpore,23-10-2022,308.1400757,3347,3581,3579,10,2022,October
+Jammu and Kashmir,Srinagar,Parimpore,30-10-2022,12.1779232,2781,3142,2957,10,2022,October
+Jammu and Kashmir,Srinagar,Parimpore,06-11-2022,420.1250305,2533,2881,2856,11,2022,November
+Jammu and Kashmir,Srinagar,Parimpore,13-11-2022,94.26520538,2428,2852,2711,11,2022,November
+Jammu and Kashmir,Srinagar,Parimpore,20-11-2022,155.0686646,2288,2619,2582,11,2022,November
+Jammu and Kashmir,Srinagar,Parimpore,27-11-2022,193.2708435,2019,2676,2606,11,2022,November
+Jammu and Kashmir,Srinagar,Parimpore,04-12-2022,68.41095734,2055,2994,2579,12,2022,December
+Jammu and Kashmir,Srinagar,Parimpore,11-12-2022,84.552742,2083,2507,2543,12,2022,December
+Jammu and Kashmir,Srinagar,Parimpore,18-12-2022,87.31250763,2136,2625,2682,12,2022,December
+Jammu and Kashmir,Srinagar,Parimpore,25-12-2022,70.84406281,2085,2606,2633,12,2022,December
+NCT of Delhi,Delhli,Azadpur,06-01-2013,1698.64,3813,5275,4421,1,2013,January
+NCT of Delhi,Delhli,Azadpur,13-01-2013,1241.35,3872,5465,4542,1,2013,January
+NCT of Delhi,Delhli,Azadpur,20-01-2013,1364.3,3794,5604,4601,1,2013,January
+NCT of Delhi,Delhli,Azadpur,27-01-2013,1072.52,4134,5834,4925,1,2013,January
+NCT of Delhi,Delhli,Azadpur,03-02-2013,1033.616667,3941,5594,4660,2,2013,February
+NCT of Delhi,Delhli,Azadpur,10-02-2013,820.6833333,3906,5587,4646,2,2013,February
+NCT of Delhi,Delhli,Azadpur,17-02-2013,842.4,4158,5781,4861,2,2013,February
+NCT of Delhi,Delhli,Azadpur,24-02-2013,616.7,4139,5785,4824,2,2013,February
+NCT of Delhi,Delhli,Azadpur,01-09-2013,4275.563333,2063,5056,3302,9,2013,September
+NCT of Delhi,Delhli,Azadpur,08-09-2013,4415.835,1996,5042,3258,9,2013,September
+NCT of Delhi,Delhli,Azadpur,15-09-2013,4556.106667,1930,5028,3214,9,2013,September
+NCT of Delhi,Delhli,Azadpur,22-09-2013,4696.378333,1863,5014,3169,9,2013,September
+NCT of Delhi,Delhli,Azadpur,29-09-2013,4836.65,1797,5000,3125,9,2013,September
+NCT of Delhi,Delhli,Azadpur,06-10-2013,5090.54,1875,5313,3187,10,2013,October
+NCT of Delhi,Delhli,Azadpur,13-10-2013,5391.083333,1510,5313,3239,10,2013,October
+NCT of Delhi,Delhli,Azadpur,20-10-2013,3327.4,1126,4450,2925,10,2013,October
+NCT of Delhi,Delhli,Azadpur,27-10-2013,3713.416667,1616,5531,3297,10,2013,October
+NCT of Delhi,Delhli,Azadpur,03-11-2013,5432.88,1938,5125,3460,11,2013,November
+NCT of Delhi,Delhli,Azadpur,10-11-2013,3797.08,1563,5625,3463,11,2013,November
+NCT of Delhi,Delhli,Azadpur,17-11-2013,4020.783333,1927,5500,3521,11,2013,November
+NCT of Delhi,Delhli,Azadpur,24-11-2013,3811.116667,1927,6146,4062,11,2013,November
+NCT of Delhi,Delhli,Azadpur,01-12-2013,3026.32,1625,6375,4275,12,2013,December
+NCT of Delhi,Delhli,Azadpur,08-12-2013,2617.64,2125,6250,4600,12,2013,December
+NCT of Delhi,Delhli,Azadpur,15-12-2013,2928.35,2017,6258,3958,12,2013,December
+NCT of Delhi,Delhli,Azadpur,22-12-2013,2450.633333,2097,6362,3697,12,2013,December
+NCT of Delhi,Delhli,Azadpur,29-12-2013,1240.425,1322,5536,3249,12,2013,December
+NCT of Delhi,Delhli,Azadpur,05-01-2014,1403.383333,2225,6737,4198,1,2014,January
+NCT of Delhi,Delhli,Azadpur,12-01-2014,4481.266667,1217,4754,2873,1,2014,January
+NCT of Delhi,Delhli,Azadpur,19-01-2014,1558.95,1255,4584,2910,1,2014,January
+NCT of Delhi,Delhli,Azadpur,26-01-2014,1306.842857,1679,3822,2211,1,2014,January
+NCT of Delhi,Delhli,Azadpur,02-02-2014,1416.12,1013,5675,3208,2,2014,February
+NCT of Delhi,Delhli,Azadpur,09-02-2014,800.34,1225,5825,3533,2,2014,February
+NCT of Delhi,Delhli,Azadpur,16-02-2014,1030.42,1438,5444,3808,2,2014,February
+NCT of Delhi,Delhli,Azadpur,23-02-2014,735.2333333,1432,5625,4078,2,2014,February
+NCT of Delhi,Delhli,Azadpur,07-09-2014,4108.186897,2611,4706,3378,9,2014,September
+NCT of Delhi,Delhli,Azadpur,14-09-2014,4240.443448,2653,4580,3340,9,2014,September
+NCT of Delhi,Delhli,Azadpur,21-09-2014,4372.7,2695,4453,3303,9,2014,September
+NCT of Delhi,Delhli,Azadpur,28-09-2014,5293.984615,3043,4101,3507,9,2014,September
+NCT of Delhi,Delhli,Azadpur,05-10-2014,6549.6,2188,6250,4375,10,2014,October
+NCT of Delhi,Delhli,Azadpur,12-10-2014,4791.633333,2292,6823,4361,10,2014,October
+NCT of Delhi,Delhli,Azadpur,19-10-2014,3290.025,1719,6953,3906,10,2014,October
+NCT of Delhi,Delhli,Azadpur,26-10-2014,5610.35,2812,7500,5000,10,2014,October
+NCT of Delhi,Delhli,Azadpur,02-11-2014,4144.366667,2031,7083,4709,11,2014,November
+NCT of Delhi,Delhli,Azadpur,09-11-2014,2864.6,2292,7500,4688,11,2014,November
+NCT of Delhi,Delhli,Azadpur,16-11-2014,3919.4,2511,7927,5226,11,2014,November
+NCT of Delhi,Delhli,Azadpur,23-11-2014,4116.375,1485,6484,4286,11,2014,November
+NCT of Delhi,Delhli,Azadpur,30-11-2014,3048.8,1953,7500,4622,11,2014,November
+NCT of Delhi,Delhli,Azadpur,07-12-2014,2322.1,3698,5209,4375,12,2014,December
+NCT of Delhi,Delhli,Azadpur,14-12-2014,2241.55,4219,5625,4891,12,2014,December
+NCT of Delhi,Delhli,Azadpur,21-12-2014,2607.85,3688,5156,4354,12,2014,December
+NCT of Delhi,Delhli,Azadpur,28-12-2014,2223.125,2938,6016,4261,12,2014,December
+NCT of Delhi,Delhli,Azadpur,04-01-2015,1838.4,2188,6875,4167,1,2014,January
+NCT of Delhi,Delhli,Azadpur,11-01-2015,1808.7,2500,6875,4375,1,2015,January
+NCT of Delhi,Delhli,Azadpur,18-01-2015,2235,2500,7500,4792,1,2015,January
+NCT of Delhi,Delhli,Azadpur,25-01-2015,1932.18,3188,5913,4519,1,2015,January
+NCT of Delhi,Delhli,Azadpur,01-02-2015,921.8,2188,6750,4542,2,2015,February
+NCT of Delhi,Delhli,Azadpur,08-02-2015,805.75,2188,7032,4688,2,2015,February
+NCT of Delhi,Delhli,Azadpur,15-02-2015,1999.75,2344,7032,5349,2,2015,February
+NCT of Delhi,Delhli,Azadpur,22-02-2015,1497.533333,2813,7083,4694,2,2015,February
+NCT of Delhi,Delhli,Azadpur,06-09-2015,4470.768889,2471,4056,3169,9,2015,September
+NCT of Delhi,Delhli,Azadpur,13-09-2015,4576.955873,2459,3948,3114,9,2015,September
+NCT of Delhi,Delhli,Azadpur,20-09-2015,4683.142857,2446,3839,3060,9,2015,September
+NCT of Delhi,Delhli,Azadpur,27-09-2015,2657.171429,1879,5313,3387,9,2015,September
+NCT of Delhi,Delhli,Azadpur,04-10-2015,3514.2,3462,4904,4236,10,2015,October
+NCT of Delhi,Delhli,Azadpur,11-10-2015,5052.15,4609,5703,5196,10,2015,October
+NCT of Delhi,Delhli,Azadpur,18-10-2015,5387.766667,4757,5660,5226,10,2015,October
+NCT of Delhi,Delhli,Azadpur,25-10-2015,3286.566667,4250,5087,4721,10,2015,October
+NCT of Delhi,Delhli,Azadpur,01-11-2015,4218.783333,3983,5000,4542,11,2015,November
+NCT of Delhi,Delhli,Azadpur,08-11-2015,4406.611765,3824,4919,4424,11,2015,November
+NCT of Delhi,Delhli,Azadpur,15-11-2015,3349.107143,3951,5112,4683,11,2015,November
+NCT of Delhi,Delhli,Azadpur,22-11-2015,3805.188235,4247,5533,5037,11,2015,November
+NCT of Delhi,Delhli,Azadpur,29-11-2015,3684.029412,3879,4842,4532,11,2015,November
+NCT of Delhi,Delhli,Azadpur,06-12-2015,2836.73,2813,3563,3250,12,2015,December
+NCT of Delhi,Delhli,Azadpur,13-12-2015,2756.614286,3906,4777,4386,12,2015,December
+NCT of Delhi,Delhli,Azadpur,20-12-2015,3242.9,4135,5063,4677,12,2015,December
+NCT of Delhi,Delhli,Azadpur,27-12-2015,2848.4,3854,4861,4515,12,2015,December
+NCT of Delhi,Delhli,Azadpur,03-01-2016,2390.947059,3640,4548,4316,1,2016,January
+NCT of Delhi,Delhli,Azadpur,10-01-2016,2317.3,2500,3167,2871,1,2016,January
+NCT of Delhi,Delhli,Azadpur,17-01-2016,2105.1,2546,3188,2908,1,2016,January
+NCT of Delhi,Delhli,Azadpur,24-01-2016,2046.811765,2754,3364,3103,1,2016,January
+NCT of Delhi,Delhli,Azadpur,31-01-2016,1706.744444,2952,3521,3264,1,2016,January
+NCT of Delhi,Delhli,Azadpur,07-02-2016,1651.033333,3089,3693,3365,2,2016,February
+NCT of Delhi,Delhli,Azadpur,14-02-2016,1349.190909,2989,3614,3330,2,2016,February
+NCT of Delhi,Delhli,Azadpur,21-02-2016,1204.516667,3146,3771,3469,2,2016,February
+NCT of Delhi,Delhli,Azadpur,28-02-2016,958.1666667,3110,3672,3412,2,2016,February
+NCT of Delhi,Delhli,Azadpur,04-09-2016,2936.766667,1875,7292,4854,9,2016,September
+NCT of Delhi,Delhli,Azadpur,11-09-2016,4165.283333,1875,7760,5073,9,2016,September
+NCT of Delhi,Delhli,Azadpur,18-09-2016,3923.62,1875,7125,4896,9,2016,September
+NCT of Delhi,Delhli,Azadpur,25-09-2016,4811.45,1875,6250,4688,9,2016,September
+NCT of Delhi,Delhli,Azadpur,02-10-2016,6040.25,1615,6042,3837,10,2016,October
+NCT of Delhi,Delhli,Azadpur,09-10-2016,5891.1,1250,8900,3536,10,2016,October
+NCT of Delhi,Delhli,Azadpur,16-10-2016,4058.9,1302,8875,4294,10,2016,October
+NCT of Delhi,Delhli,Azadpur,23-10-2016,4707.36,1188,8800,4326,10,2016,October
+NCT of Delhi,Delhli,Azadpur,30-10-2016,3998.28,1063,8800,4270,10,2016,October
+NCT of Delhi,Delhli,Azadpur,06-11-2016,3289.2,938,8800,4215,11,2016,November
+NCT of Delhi,Delhli,Azadpur,13-11-2016,3440.725,938,9000,4305,11,2016,November
+NCT of Delhi,Delhli,Azadpur,20-11-2016,1569.933333,938,7667,4160,11,2016,November
+NCT of Delhi,Delhli,Azadpur,27-11-2016,2075.433333,1250,7367,4276,11,2016,November
+NCT of Delhi,Delhli,Azadpur,04-12-2016,2182.333333,1250,8000,4598,12,2016,December
+NCT of Delhi,Delhli,Azadpur,11-12-2016,2046.3,1375,8150,4703,12,2016,December
+NCT of Delhi,Delhli,Azadpur,18-12-2016,1910.266667,1500,8300,4807,12,2016,December
+NCT of Delhi,Delhli,Azadpur,25-12-2016,1774.233333,1625,8450,4912,12,2016,December
+NCT of Delhi,Delhli,Azadpur,01-01-2017,1638.2,1750,8600,5016,1,2017,January
+NCT of Delhi,Delhli,Azadpur,08-01-2017,1502.166667,1875,8750,5121,1,2017,January
+NCT of Delhi,Delhli,Azadpur,15-01-2017,1366.133333,2000,8900,5226,1,2017,January
+NCT of Delhi,Delhli,Azadpur,22-01-2017,1230.1,2125,9050,5330,1,2017,January
+NCT of Delhi,Delhli,Azadpur,29-01-2017,1094.066667,2250,9200,5435,1,2017,January
+NCT of Delhi,Delhli,Azadpur,05-02-2017,958.0333333,2375,9350,5539,2,2017,February
+NCT of Delhi,Delhli,Azadpur,12-02-2017,822,2500,9500,5644,2,2017,February
+NCT of Delhi,Delhli,Azadpur,19-02-2017,675.2333333,2500,9500,5564,2,2017,February
+NCT of Delhi,Delhli,Azadpur,26-02-2017,763.8942529,2457,9323,5462,2,2017,February
+NCT of Delhi,Delhli,Azadpur,03-09-2017,3157.73908,1293,4552,2706,9,2017,September
+NCT of Delhi,Delhli,Azadpur,10-09-2017,3246.4,1250,4375,2604,9,2017,September
+NCT of Delhi,Delhli,Azadpur,17-09-2017,3575.816667,1188,4896,2900,9,2017,September
+NCT of Delhi,Delhli,Azadpur,24-09-2017,4994.95,1125,4844,2880,9,2017,September
+NCT of Delhi,Delhli,Azadpur,01-10-2017,4322.366667,1125,4375,2948,10,2017,October
+NCT of Delhi,Delhli,Azadpur,08-10-2017,4457.3,1175,4719,3034,10,2017,October
+NCT of Delhi,Delhli,Azadpur,15-10-2017,4483.3,1208,6670,2989,10,2017,October
+NCT of Delhi,Delhli,Azadpur,22-10-2017,3839.22,1175,6521,3388,10,2017,October
+NCT of Delhi,Delhli,Azadpur,29-10-2017,3424.78,1375,5938,2995,10,2017,October
+NCT of Delhi,Delhli,Azadpur,05-11-2017,3916.25,1250,5469,3233,11,2017,November
+NCT of Delhi,Delhli,Azadpur,12-11-2017,4104.216667,1250,6406,3490,11,2017,November
+NCT of Delhi,Delhli,Azadpur,19-11-2017,3570.116667,1250,6250,3507,11,2017,November
+NCT of Delhi,Delhli,Azadpur,26-11-2017,2672.1,1250,5729,3194,11,2017,November
+NCT of Delhi,Delhli,Azadpur,03-12-2017,2848.85,1250,5781,3359,12,2017,December
+NCT of Delhi,Delhli,Azadpur,10-12-2017,2855.989744,1282,5745,3360,12,2017,December
+NCT of Delhi,Delhli,Azadpur,17-12-2017,2863.129487,1314,5709,3362,12,2017,December
+NCT of Delhi,Delhli,Azadpur,24-12-2017,2870.269231,1346,5673,3363,12,2017,December
+NCT of Delhi,Delhli,Azadpur,31-12-2017,2877.408974,1378,5637,3365,12,2017,December
+NCT of Delhi,Delhli,Azadpur,07-01-2018,2884.548718,1410,5601,3366,1,2018,January
+NCT of Delhi,Delhli,Azadpur,14-01-2018,2891.688462,1442,5565,3368,1,2018,January
+NCT of Delhi,Delhli,Azadpur,21-01-2018,2898.828205,1474,5529,3369,1,2018,January
+NCT of Delhi,Delhli,Azadpur,28-01-2018,2905.967949,1506,5493,3371,1,2018,January
+NCT of Delhi,Delhli,Azadpur,04-02-2018,2913.107692,1538,5457,3372,2,2018,February
+NCT of Delhi,Delhli,Azadpur,11-02-2018,2920.247436,1571,5421,3374,2,2018,February
+NCT of Delhi,Delhli,Azadpur,18-02-2018,2927.387179,1603,5385,3375,2,2018,February
+NCT of Delhi,Delhli,Azadpur,25-02-2018,2934.526923,1635,5349,3377,2,2018,February
+NCT of Delhi,Delhli,Azadpur,02-09-2018,3127.3,2500,4375,3417,9,2018,September
+NCT of Delhi,Delhli,Azadpur,09-09-2018,2917.275,2188,4609,3391,9,2018,September
+NCT of Delhi,Delhli,Azadpur,16-09-2018,2707.25,1875,4844,3366,9,2018,September
+NCT of Delhi,Delhli,Azadpur,23-09-2018,2524,875,5625,3251,9,2018,September
+NCT of Delhi,Delhli,Azadpur,30-09-2018,2582.345,1038,5594,3316,9,2018,September
+NCT of Delhi,Delhli,Azadpur,07-10-2018,2640.69,1200,5563,3382,10,2018,October
+NCT of Delhi,Delhli,Azadpur,14-10-2018,2699.035,1362,5531,3448,10,2018,October
+NCT of Delhi,Delhli,Azadpur,21-10-2018,2757.38,1525,5500,3513,10,2018,October
+NCT of Delhi,Delhli,Azadpur,28-10-2018,2815.725,1688,5469,3578,10,2018,October
+NCT of Delhi,Delhli,Azadpur,04-11-2018,2874.07,1850,5438,3644,11,2018,November
+NCT of Delhi,Delhli,Azadpur,11-11-2018,2932.415,2012,5407,3710,11,2018,November
+NCT of Delhi,Delhli,Azadpur,18-11-2018,2990.76,2175,5375,3775,11,2018,November
+NCT of Delhi,Delhli,Azadpur,25-11-2018,3049.105,2338,5344,3840,11,2018,November
+NCT of Delhi,Delhli,Azadpur,02-12-2018,3107.45,2500,5313,3906,12,2018,December
+NCT of Delhi,Delhli,Azadpur,09-12-2018,3647.3,2188,4688,4000,12,2018,December
+NCT of Delhi,Delhli,Azadpur,16-12-2018,3303.8,2250,4625,3849,12,2018,December
+NCT of Delhi,Delhli,Azadpur,23-12-2018,2960.3,2313,4563,3699,12,2018,December
+NCT of Delhi,Delhli,Azadpur,30-12-2018,2616.8,2375,4500,3548,12,2018,December
+NCT of Delhi,Delhli,Azadpur,06-01-2019,2273.3,2438,4438,3397,1,2019,January
+NCT of Delhi,Delhli,Azadpur,13-01-2019,1929.8,2500,4375,3247,1,2019,January
+NCT of Delhi,Delhli,Azadpur,20-01-2019,1709.3,2479,4604,3438,1,2019,January
+NCT of Delhi,Delhli,Azadpur,27-01-2019,1013.58,2400,4938,3625,1,2019,January
+NCT of Delhi,Delhli,Azadpur,03-02-2019,1217.266667,2500,5000,3750,2,2019,February
+NCT of Delhi,Delhli,Azadpur,10-02-2019,1977.82,2225,5213,3863,2,2019,February
+NCT of Delhi,Delhli,Azadpur,17-02-2019,610.06,2425,5625,4117,2,2019,February
+NCT of Delhi,Delhli,Azadpur,24-02-2019,1913.38,2175,5600,3192,2,2019,February
+NCT of Delhi,Delhli,Azadpur,01-09-2019,3672.96069,1081,5507,3033,9,2019,September
+NCT of Delhi,Delhli,Azadpur,08-09-2019,3738.130345,1041,5504,3027,9,2019,September
+NCT of Delhi,Delhli,Azadpur,15-09-2019,3803.3,1000,5500,3021,9,2019,September
+NCT of Delhi,Delhli,Azadpur,22-09-2019,3894.5,938,5313,2917,9,2019,September
+NCT of Delhi,Delhli,Azadpur,29-09-2019,3331.683333,1094,5469,3073,9,2019,September
+NCT of Delhi,Delhli,Azadpur,06-10-2019,2880.6,1563,6250,3542,10,2019,October
+NCT of Delhi,Delhli,Azadpur,13-10-2019,3057.475,1407,6016,3516,10,2019,October
+NCT of Delhi,Delhli,Azadpur,20-10-2019,3234.35,1250,5782,3490,10,2019,October
+NCT of Delhi,Delhli,Azadpur,27-10-2019,3411.225,1094,5547,3464,10,2019,October
+NCT of Delhi,Delhli,Azadpur,03-11-2019,3588.1,938,5313,3438,11,2019,November
+NCT of Delhi,Delhli,Azadpur,10-11-2019,5360.05,734,6016,4114,11,2019,November
+NCT of Delhi,Delhli,Azadpur,17-11-2019,1028.883333,1084,6510,4184,11,2019,November
+NCT of Delhi,Delhli,Azadpur,24-11-2019,5013.55,1042,5729,3854,11,2019,November
+NCT of Delhi,Delhli,Azadpur,01-12-2019,2844.7,833,5209,3438,12,2019,December
+NCT of Delhi,Delhli,Azadpur,08-12-2019,1335.15,625,5938,3750,12,2019,December
+NCT of Delhi,Delhli,Azadpur,15-12-2019,2617.8,782,6094,3177,12,2019,December
+NCT of Delhi,Delhli,Azadpur,22-12-2019,1022.816667,1562,6406,4115,12,2019,December
+NCT of Delhi,Delhli,Azadpur,29-12-2019,2487.5,1875,6563,4167,12,2019,December
+NCT of Delhi,Delhli,Azadpur,05-01-2020,5209.4,1563,5938,3854,1,2020,January
+NCT of Delhi,Delhli,Azadpur,12-01-2020,5112.52,1590,5943,3865,1,2020,January
+NCT of Delhi,Delhli,Azadpur,19-01-2020,5015.64,1617,5949,3877,1,2020,January
+NCT of Delhi,Delhli,Azadpur,26-01-2020,4918.76,1643,5954,3888,1,2020,January
+NCT of Delhi,Delhli,Azadpur,02-02-2020,4821.88,1670,5959,3899,2,2020,February
+NCT of Delhi,Delhli,Azadpur,09-02-2020,4725,1697,5965,3911,2,2020,February
+NCT of Delhi,Delhli,Azadpur,16-02-2020,4628.12,1724,5970,3922,2,2020,February
+NCT of Delhi,Delhli,Azadpur,23-02-2020,4531.24,1750,5975,3933,2,2020,February
+NCT of Delhi,Delhli,Azadpur,06-09-2020,1818.6,2500,6125,4250,9,2020,September
+NCT of Delhi,Delhli,Azadpur,13-09-2020,1702.8,2500,5573,4063,9,2020,September
+NCT of Delhi,Delhli,Azadpur,20-09-2020,2447.76,2250,5063,3813,9,2020,September
+NCT of Delhi,Delhli,Azadpur,27-09-2020,2473.433333,1702,5938,3557,9,2020,September
+NCT of Delhi,Delhli,Azadpur,04-10-2020,2764.633333,938,5208,2853,10,2020,October
+NCT of Delhi,Delhli,Azadpur,11-10-2020,2607.663333,1125,5031,2889,10,2020,October
+NCT of Delhi,Delhli,Azadpur,18-10-2020,2450.693333,1313,4854,2926,10,2020,October
+NCT of Delhi,Delhli,Azadpur,25-10-2020,2293.723333,1500,4677,2962,10,2020,October
+NCT of Delhi,Delhli,Azadpur,01-11-2020,2136.753333,1688,4500,2999,11,2020,November
+NCT of Delhi,Delhli,Azadpur,08-11-2020,1979.783333,1875,4323,3035,11,2020,November
+NCT of Delhi,Delhli,Azadpur,15-11-2020,2358.483333,1875,5208,3527,11,2020,November
+NCT of Delhi,Delhli,Azadpur,22-11-2020,1955.766667,2500,5625,3564,11,2020,November
+NCT of Delhi,Delhli,Azadpur,29-11-2020,1384.483333,2917,6146,3922,11,2020,November
+NCT of Delhi,Delhli,Azadpur,06-12-2020,1896.733333,3125,6875,3835,12,2020,December
+NCT of Delhi,Delhli,Azadpur,13-12-2020,1522.32,2750,6625,3848,12,2020,December
+NCT of Delhi,Delhli,Azadpur,20-12-2020,1258.216667,1354,6719,3574,12,2020,December
+NCT of Delhi,Delhli,Azadpur,27-12-2020,1167.716667,1500,7500,3455,12,2020,December
+NCT of Delhi,Delhli,Azadpur,03-01-2021,709.125,1500,7500,3978,1,2021,January
+NCT of Delhi,Delhli,Azadpur,10-01-2021,715.1629808,1490,7446,3958,1,2021,January
+NCT of Delhi,Delhli,Azadpur,17-01-2021,721.2009615,1481,7391,3939,1,2021,January
+NCT of Delhi,Delhli,Azadpur,24-01-2021,727.2389423,1471,7337,3919,1,2021,January
+NCT of Delhi,Delhli,Azadpur,31-01-2021,733.2769231,1462,7282,3899,1,2021,January
+NCT of Delhi,Delhli,Azadpur,07-02-2021,739.3149038,1452,7228,3880,2,2021,February
+NCT of Delhi,Delhli,Azadpur,14-02-2021,745.3528846,1442,7173,3860,2,2021,February
+NCT of Delhi,Delhli,Azadpur,21-02-2021,751.3908654,1433,7119,3840,2,2021,February
+NCT of Delhi,Delhli,Azadpur,28-02-2021,757.4288462,1423,7064,3821,2,2021,February
+NCT of Delhi,Delhli,Azadpur,05-09-2021,920.4543269,1163,5593,3291,9,2021,September
+NCT of Delhi,Delhli,Azadpur,12-09-2021,926.4923077,1154,5539,3272,9,2021,September
+NCT of Delhi,Delhli,Azadpur,19-09-2021,932.5302885,1144,5484,3252,9,2021,September
+NCT of Delhi,Delhli,Azadpur,26-09-2021,938.5682692,1135,5430,3233,9,2021,September
+NCT of Delhi,Delhli,Azadpur,03-10-2021,944.60625,1125,5375,3213,10,2021,October
+NCT of Delhi,Delhli,Azadpur,10-10-2021,950.6442308,1115,5321,3193,10,2021,October
+NCT of Delhi,Delhli,Azadpur,17-10-2021,956.6822115,1106,5266,3174,10,2021,October
+NCT of Delhi,Delhli,Azadpur,24-10-2021,962.7201923,1096,5212,3154,10,2021,October
+NCT of Delhi,Delhli,Azadpur,31-10-2021,968.7581731,1087,5157,3134,10,2021,October
+NCT of Delhi,Delhli,Azadpur,07-11-2021,974.7961538,1077,5103,3115,11,2021,November
+NCT of Delhi,Delhli,Azadpur,14-11-2021,980.8341346,1067,5048,3095,11,2021,November
+NCT of Delhi,Delhli,Azadpur,21-11-2021,986.8721154,1058,4994,3076,11,2021,November
+NCT of Delhi,Delhli,Azadpur,28-11-2021,992.9100962,1048,4939,3056,11,2021,November
+NCT of Delhi,Delhli,Azadpur,05-12-2021,998.9480769,1038,4885,3036,12,2021,December
+NCT of Delhi,Delhli,Azadpur,12-12-2021,1004.986058,1029,4830,3017,12,2021,December
+NCT of Delhi,Delhli,Azadpur,19-12-2021,1011.024038,1019,4776,2997,12,2021,December
+NCT of Delhi,Delhli,Azadpur,26-12-2021,1017.062019,1010,4721,2978,12,2021,December
+NCT of Delhi,Delhli,Azadpur,02-01-2022,1023.1,1000,4667,2958,1,2022,January
+NCT of Delhi,Delhli,Azadpur,09-01-2022,696.6,1147,4600,3231,1,2022,January
+NCT of Delhi,Delhli,Azadpur,16-01-2022,286.5166667,1333,5000,3847,1,2022,January
+NCT of Delhi,Delhli,Azadpur,23-01-2022,1761.38,1400,4800,3289,1,2022,January
+NCT of Delhi,Delhli,Azadpur,30-01-2022,720.575,1333,5333,2892,1,2022,January
+NCT of Delhi,Delhli,Azadpur,06-02-2022,1038.3,1333,5333,3031,2,2022,February
+NCT of Delhi,Delhli,Azadpur,13-02-2022,936.9166667,1333,5333,3445,2,2022,February
+NCT of Delhi,Delhli,Azadpur,20-02-2022,796.22,1333,5333,3782,2,2022,February
+NCT of Delhi,Delhli,Azadpur,27-02-2022,762.3833333,1356,5889,3763,2,2022,February
+NCT of Delhi,Delhli,Azadpur,04-09-2022,3079.5,1333,5111,3333,9,2022,September
+NCT of Delhi,Delhli,Azadpur,11-09-2022,3145.033333,1489,6333,3622,9,2022,September
+NCT of Delhi,Delhli,Azadpur,18-09-2022,3773.65,1444,6833,4165,9,2022,September
+NCT of Delhi,Delhli,Azadpur,25-09-2022,2989.9,1400,7000,3454,9,2022,September
+NCT of Delhi,Delhli,Azadpur,02-10-2022,1943.42,1640,8200,3678,10,2022,October
+NCT of Delhi,Delhli,Azadpur,09-10-2022,4101.283333,1533,7667,3735,10,2022,October
+NCT of Delhi,Delhli,Azadpur,16-10-2022,4674.866667,1517,7583,3693,10,2022,October
+NCT of Delhi,Delhli,Azadpur,23-10-2022,3678.6,945,7167,3115,10,2022,October
+NCT of Delhi,Delhli,Azadpur,30-10-2022,2774.46,613,6600,2990,10,2022,October
+NCT of Delhi,Delhli,Azadpur,06-11-2022,3352.366667,533,6133,2810,11,2022,November
+NCT of Delhi,Delhli,Azadpur,13-11-2022,2305.083333,644,5167,2758,11,2022,November
+NCT of Delhi,Delhli,Azadpur,20-11-2022,1833.25,755,5548,3352,11,2022,November
+NCT of Delhi,Delhli,Azadpur,27-11-2022,1948.2,1160,5720,3612,11,2022,November
+NCT of Delhi,Delhli,Azadpur,04-12-2022,2211.716667,1200,6000,3606,12,2022,December
+NCT of Delhi,Delhli,Azadpur,11-12-2022,2372.28,1200,6000,3606,12,2022,December
+NCT of Delhi,Delhli,Azadpur,18-12-2022,1127.64,1184,5840,3589,12,2022,December
+NCT of Delhi,Delhli,Azadpur,25-12-2022,1264.616667,1200,6000,3543,12,2022,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-01-2013,265.1666667,5167,6167,5667,1,2013,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-01-2013,159.8,6200,7900,6900,1,2013,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-01-2013,124.6,6400,8000,7200,1,2013,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-01-2013,146.25,6000,8000,7000,1,2013,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",03-02-2013,118,6300,8000,7000,2,2013,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",10-02-2013,120.2,6300,8000,7040,2,2013,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",17-02-2013,99.83333333,5750,7500,6583,2,2013,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",24-02-2013,105.8333333,6833,8083,7417,2,2013,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",01-09-2013,711.5462963,7078,8793,7935,9,2013,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",08-09-2013,734.5,7100,8833,7967,9,2013,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",15-09-2013,392.5,6875,8500,7625,9,2013,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",22-09-2013,352.1666667,6833,8667,7750,9,2013,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",29-09-2013,511.5,6667,8667,7667,9,2013,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-10-2013,699,6750,8375,7625,10,2013,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-10-2013,649.4,6700,8500,7600,10,2013,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-10-2013,241,6000,8000,7000,10,2013,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-10-2013,286.1666667,6333,7333,6833,10,2013,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",03-11-2013,521.5,6750,8250,7500,11,2013,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",10-11-2013,459,7000,8250,7625,11,2013,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",17-11-2013,243.6,5900,7500,6700,11,2013,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",24-11-2013,405.2,6800,8400,7600,11,2013,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",01-12-2013,299.2,7400,8900,8200,12,2013,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",08-12-2013,317.6,7500,8500,8000,12,2013,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",15-12-2013,385.5,7000,8750,7875,12,2013,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",22-12-2013,261,7583,8583,8083,12,2013,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",29-12-2013,265.75,7625,9125,8375,12,2013,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",05-01-2014,191.6,8000,9200,8600,1,2014,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",12-01-2014,145.8,7800,8800,8300,1,2014,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",19-01-2014,200.25,7875,8875,8375,1,2014,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",26-01-2014,203.2,7800,8800,8300,1,2014,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",02-02-2014,123.3333333,7667,9333,8500,2,2014,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",09-02-2014,136.8,7500,9500,8500,2,2014,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",16-02-2014,122.5,7417,10583,8917,2,2014,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",23-02-2014,118.6,8000,11400,9600,2,2014,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",07-09-2014,305,9500,12833,11167,9,2014,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",14-09-2014,288.25,8125,10125,9125,9,2014,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",21-09-2014,335.3333333,7583,9667,8583,9,2014,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",28-09-2014,456.4,8700,10700,9700,9,2014,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",05-10-2014,543.5,8750,10750,9750,10,2014,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",12-10-2014,341,8500,10500,9500,10,2014,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",19-10-2014,340.2,8700,10700,9700,10,2014,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",26-10-2014,433,7750,9750,8750,10,2014,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",02-11-2014,354,7175,9188,8188,11,2014,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",09-11-2014,343.5,7250,9250,8125,11,2014,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",16-11-2014,322.8,7100,9100,8100,11,2014,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",23-11-2014,379.4,6500,8500,7500,11,2014,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",30-11-2014,409.8333333,7167,9583,8250,11,2014,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",07-12-2014,245,7250,10000,8250,12,2014,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",14-12-2014,230.25,7125,10250,8625,12,2014,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",21-12-2014,276.2,7300,9800,8600,12,2014,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",28-12-2014,388,7300,9900,8500,12,2014,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",04-01-2015,765.8,7200,9400,8200,1,2014,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",11-01-2015,1882.75,7750,9750,8750,1,2015,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",18-01-2015,1779.2,6800,8800,7800,1,2015,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",25-01-2015,2306.833333,7317,9317,8317,1,2015,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",01-02-2015,958,9000,11000,10000,2,2015,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",08-02-2015,2073.833333,7833,9533,8683,2,2015,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",15-02-2015,673.8,9100,11300,10200,2,2015,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",22-02-2015,258,9720,11720,10720,2,2015,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-09-2015,269.3333333,6833,10167,8833,9,2015,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-09-2015,334.8,6200,8900,7600,9,2015,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-09-2015,353,6200,9200,7800,9,2015,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-09-2015,459.5,6125,8375,7125,9,2015,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",04-10-2015,357.25,6375,8750,7625,10,2015,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",11-10-2015,281,6000,9625,8000,10,2015,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",18-10-2015,654.8,6200,10200,8500,10,2015,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",25-10-2015,680,5000,8500,7500,10,2015,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",01-11-2015,370.2,6000,8000,7000,11,2015,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",08-11-2015,361.2,5600,7600,6700,11,2015,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",15-11-2015,423.3333333,5667,7667,6667,11,2015,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",22-11-2015,440.6666667,4917,7083,6000,11,2015,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",29-11-2015,481.8,6300,8300,7300,11,2015,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-12-2015,472.6666667,5917,7917,6917,12,2015,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-12-2015,404.6666667,6500,8500,7500,12,2015,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-12-2015,385.3333333,5500,7333,6417,12,2015,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-12-2015,346.75,5625,7125,6375,12,2015,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",03-01-2016,487.2,5700,7300,6500,1,2016,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",10-01-2016,389.75,4500,6750,5625,1,2016,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",17-01-2016,246.8,4800,6800,5800,1,2016,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",24-01-2016,157,5400,7200,6300,1,2016,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",31-01-2016,366,6000,8000,7000,1,2016,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",07-02-2016,163,6000,8000,7000,2,2016,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",14-02-2016,194.5,6500,8500,7500,2,2016,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",21-02-2016,160.8333333,6417,8333,7417,2,2016,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",28-02-2016,229,6600,9000,7800,2,2016,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",04-09-2016,190.5,9000,11500,10000,9,2016,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",11-09-2016,209,7667,9667,8667,9,2016,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",18-09-2016,424,6600,8600,7600,9,2016,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",25-09-2016,390.75,7750,9750,8750,9,2016,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",02-10-2016,464.6,6800,8800,7800,10,2016,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",09-10-2016,407.8,8600,10600,9600,10,2016,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",16-10-2016,528,8000,10000,9000,10,2016,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",23-10-2016,419.8333333,7167,9000,8083,10,2016,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",30-10-2016,414.25,5750,7125,6450,10,2016,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-11-2016,282.75,6250,8000,7125,11,2016,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-11-2016,315.2,6000,7800,6900,11,2016,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-11-2016,354.8,6400,8200,7300,11,2016,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-11-2016,385.25,7750,9500,8625,11,2016,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",04-12-2016,293.3333333,7333,9167,8250,12,2016,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",11-12-2016,229,6250,8000,7125,12,2016,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",18-12-2016,131.3333333,6667,8333,7500,12,2016,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",25-12-2016,272,7167,8833,8000,12,2016,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",01-01-2017,222.3333333,6000,9833,7917,1,2016,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",08-01-2017,218.8333333,6000,8000,7300,1,2017,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",15-01-2017,329.6,6400,8200,7300,1,2017,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",22-01-2017,193.5,7375,9125,8250,1,2017,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",29-01-2017,167.25,8000,9500,8750,1,2017,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",05-02-2017,220,8300,9900,9100,2,2017,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",12-02-2017,239.6,7200,9400,8300,2,2017,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",19-02-2017,299.6666667,7500,9500,8500,2,2017,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",26-02-2017,192,7833,9833,8833,2,2017,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",03-09-2017,241.3296296,6422,8230,7422,9,2017,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",10-09-2017,244.4,6400,8200,7400,9,2017,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",17-09-2017,337,6500,8100,7300,9,2017,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",24-09-2017,505,6000,7750,6875,9,2017,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",01-10-2017,776.5,6000,8000,7000,10,2017,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",08-10-2017,522.5,6500,8000,7250,10,2017,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",15-10-2017,351.75,6500,8250,7375,10,2017,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",22-10-2017,289,7125,8500,7800,10,2017,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",29-10-2017,465.8,6700,8500,7600,10,2017,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",05-11-2017,532.2,7400,8800,8100,11,2017,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",12-11-2017,449.6666667,7333,8500,7933,11,2017,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",19-11-2017,444.8,6800,8100,7500,11,2017,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",26-11-2017,468.2,6700,8200,7520,11,2017,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",03-12-2017,462.25,7125,9000,8050,12,2017,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",10-12-2017,465.2,6900,8300,7600,12,2017,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",17-12-2017,252.8333333,6250,7750,7000,12,2017,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",24-12-2017,243,5300,6600,5960,12,2017,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",31-12-2017,455.4,4800,6500,5660,12,2017,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",07-01-2018,397.2,5400,6700,6060,1,2018,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",14-01-2018,258.4,5800,6900,6340,1,2018,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",21-01-2018,168.4,5700,6700,6200,1,2018,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",28-01-2018,304.25,5625,7125,6375,1,2018,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",04-02-2018,249,5417,6750,6083,2,2018,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",11-02-2018,246.2,5700,7800,6700,2,2018,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",18-02-2018,270.8,6500,8400,7460,2,2018,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",25-02-2018,282.6666667,6833,8917,7867,2,2018,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",02-09-2018,143,9000,11000,10000,9,2018,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",09-09-2018,292.4,7800,9200,8500,9,2018,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",16-09-2018,224,7500,8750,8125,9,2018,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",23-09-2018,281,7400,9000,8200,9,2018,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",30-09-2018,394.4,7800,9100,8460,9,2018,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",07-10-2018,458,8000,9500,8760,10,2018,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",14-10-2018,395,7500,9000,8250,10,2018,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",21-10-2018,422,7500,9250,8375,10,2018,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",28-10-2018,504.8,8000,9300,8660,10,2018,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",04-11-2018,694,8000,9600,8800,11,2018,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",11-11-2018,588,6500,8000,7300,11,2018,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",18-11-2018,371,8000,9000,8500,11,2018,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",25-11-2018,485,6600,8200,7400,11,2018,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",02-12-2018,298.8,7200,8800,8020,12,2018,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",09-12-2018,450.6,6500,8400,7500,12,2018,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",16-12-2018,403.3333333,6667,8250,7550,12,2018,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",23-12-2018,323.1666667,7583,8917,8217,12,2018,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",30-12-2018,301.2,7100,8500,7800,12,2018,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-01-2019,407.8333333,7083,8167,7633,1,2019,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-01-2019,306.8,7000,8200,7600,1,2019,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-01-2019,181.5,6875,8750,7825,1,2019,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-01-2019,294.75,6000,7625,6825,1,2019,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",03-02-2019,149.3333333,8833,11417,10167,2,2019,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",10-02-2019,191.8,8900,12500,10700,2,2019,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",17-02-2019,222.3333333,10000,13167,11667,2,2019,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",24-02-2019,254.25,10000,13500,11750,2,2019,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",01-09-2019,252.1654321,8267,12260,11133,9,2019,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",08-09-2019,252.8,8200,12200,11100,9,2019,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",15-09-2019,354.75,9500,12125,10875,9,2019,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",22-09-2019,313.3333333,7500,9583,8550,9,2019,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",29-09-2019,356.8,7400,9100,8200,9,2019,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-10-2019,423,7700,10100,8900,10,2019,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-10-2019,254.6666667,7833,10167,9000,10,2019,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-10-2019,428.1666667,8167,10333,9250,10,2019,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-10-2019,558.4,7000,9200,8100,10,2019,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",03-11-2019,462.25,7250,9250,8250,11,2019,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",10-11-2019,274.4,7800,10200,9000,11,2019,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",17-11-2019,368.4,7800,10200,9000,11,2019,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",24-11-2019,289.4,9000,12600,10800,11,2019,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",01-12-2019,466.8,6600,10100,8300,12,2019,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",08-12-2019,422,6083,9000,7583,12,2019,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",15-12-2019,1242,6875,10000,8375,12,2019,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",22-12-2019,177.5,7417,10917,9167,12,2019,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",29-12-2019,248.5,6875,10625,8750,12,2019,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",05-01-2020,555.1666667,6167,9167,7667,1,2020,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",12-01-2020,349.8,6200,8800,7500,1,2020,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",19-01-2020,186.2,5900,9500,7900,1,2020,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",26-01-2020,227,7000,10000,8500,1,2020,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",02-02-2020,189.5,6750,10250,8500,2,2020,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",09-02-2020,212.8,6700,10300,8500,2,2020,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",16-02-2020,171.1666667,6500,10167,8333,2,2020,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",23-02-2020,466.25,8625,10625,9625,2,2020,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-09-2020,226.6,9500,11800,10700,9,2020,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-09-2020,330.4,7900,10900,9400,9,2020,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-09-2020,236.2,9100,11600,10400,9,2020,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-09-2020,441.2,8300,10500,9400,9,2020,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",04-10-2020,430.2,7800,10200,9000,10,2020,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",11-10-2020,415,7200,8800,8000,10,2020,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",18-10-2020,449.3333333,7500,9667,8583,10,2020,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",25-10-2020,442.2,8500,10900,9700,10,2020,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",01-11-2020,216.6666667,9000,12167,10500,11,2020,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",08-11-2020,497.8333333,8000,10083,9033,11,2020,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",15-11-2020,512,7500,9600,8540,11,2020,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",22-11-2020,302.6,7500,9500,8500,11,2020,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",29-11-2020,289.4,6800,8800,7800,11,2020,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-12-2020,396.4,7500,9700,8600,12,2020,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-12-2020,245,7400,16400,8300,12,2020,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-12-2020,351.6666667,8750,11583,10167,12,2020,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-12-2020,330,8833,11500,10333,12,2020,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",03-01-2021,287,8917,11000,9917,1,2021,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",10-01-2021,272.6,8900,11500,10300,1,2021,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",17-01-2021,279.4,9000,11400,10200,1,2021,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",24-01-2021,339.75,8750,10750,9750,1,2021,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",31-01-2021,271.6,9000,11600,10300,1,2021,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",07-02-2021,261.6666667,9583,11833,10717,2,2021,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",14-02-2021,429.8,9800,12400,11100,2,2021,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",21-02-2021,283,10000,13167,11583,2,2021,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",28-02-2021,434.6,10800,13600,12200,2,2021,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",05-09-2021,272.5,8750,12250,10500,9,2021,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",12-09-2021,518.75,10250,13250,11750,9,2021,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",19-09-2021,244,10000,13667,11917,9,2021,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",26-09-2021,324.8,10800,14200,12500,9,2021,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",03-10-2021,362.8,9500,11700,10600,10,2021,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",10-10-2021,448.6,8400,10600,9500,10,2021,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",17-10-2021,514.5,7750,9750,8750,10,2021,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",24-10-2021,298.6666667,7333,9667,8500,10,2021,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",31-10-2021,277.6666667,8833,11333,10167,10,2021,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",07-11-2021,306,9333,12000,10667,11,2021,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",14-11-2021,428.6,7600,9600,8600,11,2021,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",21-11-2021,362,8083,10583,9333,11,2021,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",28-11-2021,403.5,9000,11250,10125,11,2021,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",05-12-2021,381,9833,12500,11167,12,2021,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",12-12-2021,542.6,10200,12800,11500,12,2021,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",19-12-2021,435.5,8000,10667,9333,12,2021,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",26-12-2021,501.4,9400,11600,10500,12,2021,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",02-01-2022,466.5,9000,11667,10333,1,2022,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",09-01-2022,579.8,9200,12800,11000,1,2022,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",16-01-2022,491,8800,12000,10400,1,2022,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",23-01-2022,549.6,9000,11400,10200,1,2022,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",30-01-2022,456.5,10000,12750,11375,1,2022,January
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-02-2022,454.8,10600,13200,11900,2,2022,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-02-2022,545.4,9200,12400,10800,2,2022,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-02-2022,313.3333333,10167,13167,11667,2,2022,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-02-2022,276.6,10400,14000,12200,2,2022,February
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",04-09-2022,301,10000,14000,12000,9,2022,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",11-09-2022,399,10000,13200,11600,9,2022,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",18-09-2022,456,8333,10500,9417,9,2022,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",25-09-2022,406.6,7200,9400,8300,9,2022,September
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",02-10-2022,547.6666667,8000,10500,9250,10,2022,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",09-10-2022,568,8333,11000,9667,10,2022,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",16-10-2022,694.5,8333,10833,9583,10,2022,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",23-10-2022,542.4,7300,9600,8400,10,2022,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",30-10-2022,395.5,8000,10000,9000,10,2022,October
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",06-11-2022,683,6540,9600,8700,11,2022,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",13-11-2022,687.75,7125,9000,8025,11,2022,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",20-11-2022,436.3333333,7833,9500,8683,11,2022,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",27-11-2022,477,7000,9000,8000,11,2022,November
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",04-12-2022,595.8333333,8083,10000,9000,12,2022,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",11-12-2022,645.2,7400,9100,8260,12,2022,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",18-12-2022,475.3333333,7167,8833,8000,12,2022,December
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",25-12-2022,387.4,8400,11800,10100,12,2022,December
+West Bengal,Kolkata,Mechua,06-01-2013,51.05,5208,5917,5608,1,2013,January
+West Bengal,Kolkata,Mechua,13-01-2013,983.58,5520,6220,5960,1,2013,January
+West Bengal,Kolkata,Mechua,20-01-2013,45.7,5867,6633,6387,1,2013,January
+West Bengal,Kolkata,Mechua,27-01-2013,45.025,6175,6933,6708,1,2013,January
+West Bengal,Kolkata,Mechua,03-02-2013,42.62,6473,7207,6987,2,2013,February
+West Bengal,Kolkata,Mechua,10-02-2013,42.38,6727,7420,7160,2,2013,February
+West Bengal,Kolkata,Mechua,17-02-2013,40.6,7350,8150,7692,2,2013,February
+West Bengal,Kolkata,Mechua,24-02-2013,34.475,7458,8208,7850,2,2013,February
+West Bengal,Kolkata,Mechua,01-09-2013,100.592963,5310,5834,5586,9,2013,September
+West Bengal,Kolkata,Mechua,08-09-2013,102.96,5240,5760,5513,9,2013,September
+West Bengal,Kolkata,Mechua,15-09-2013,41.24,5013,5540,5287,9,2013,September
+West Bengal,Kolkata,Mechua,22-09-2013,49.2,5040,5500,5293,9,2013,September
+West Bengal,Kolkata,Mechua,29-09-2013,51.54,4887,5413,5187,9,2013,September
+West Bengal,Kolkata,Mechua,06-10-2013,50.92,4833,5373,5173,10,2013,October
+West Bengal,Kolkata,Mechua,13-10-2013,52.7,5225,5758,5483,10,2013,October
+West Bengal,Kolkata,Mechua,20-10-2013,52.86,5279,5816,5522,10,2013,October
+West Bengal,Kolkata,Mechua,27-10-2013,53.02,5333,5873,5560,10,2013,October
+West Bengal,Kolkata,Mechua,03-11-2013,50.9,5427,5993,5720,11,2013,November
+West Bengal,Kolkata,Mechua,10-11-2013,51.76,5098,5650,5382,11,2013,November
+West Bengal,Kolkata,Mechua,17-11-2013,52.62,4770,5307,5043,11,2013,November
+West Bengal,Kolkata,Mechua,24-11-2013,53.48,4442,4963,4705,11,2013,November
+West Bengal,Kolkata,Mechua,01-12-2013,54.34,4113,4620,4367,12,2013,December
+West Bengal,Kolkata,Mechua,08-12-2013,50.68,4233,4747,4513,12,2013,December
+West Bengal,Kolkata,Mechua,15-12-2013,48.2,4620,5227,4867,12,2013,December
+West Bengal,Kolkata,Mechua,22-12-2013,131.7,5013,5753,5393,12,2013,December
+West Bengal,Kolkata,Mechua,29-12-2013,44.78,5513,6253,5893,12,2013,December
+West Bengal,Kolkata,Mechua,05-01-2014,42.925,6292,7000,6542,1,2014,January
+West Bengal,Kolkata,Mechua,12-01-2014,40.78,6527,7173,6767,1,2014,January
+West Bengal,Kolkata,Mechua,19-01-2014,38.575,6692,7300,7008,1,2014,January
+West Bengal,Kolkata,Mechua,26-01-2014,36.375,6958,7792,7533,1,2014,January
+West Bengal,Kolkata,Mechua,02-02-2014,36.34,7133,8000,7767,2,2014,February
+West Bengal,Kolkata,Mechua,09-02-2014,36.58,7227,8060,7820,2,2014,February
+West Bengal,Kolkata,Mechua,16-02-2014,34.8,7347,8180,7893,2,2014,February
+West Bengal,Kolkata,Mechua,23-02-2014,33.28,7427,8240,7973,2,2014,February
+West Bengal,Kolkata,Mechua,07-09-2014,44.28,6327,7327,6827,9,2014,September
+West Bengal,Kolkata,Mechua,14-09-2014,44.86,6120,7133,6613,9,2014,September
+West Bengal,Kolkata,Mechua,21-09-2014,47.3,5967,6947,6467,9,2014,September
+West Bengal,Kolkata,Mechua,28-09-2014,48.04,5907,6893,6447,9,2014,September
+West Bengal,Kolkata,Mechua,05-10-2014,51.2,6067,7000,6567,10,2014,October
+West Bengal,Kolkata,Mechua,12-10-2014,53.16666667,6211,7178,6778,10,2014,October
+West Bengal,Kolkata,Mechua,19-10-2014,66.13333333,5589,6411,6083,10,2014,October
+West Bengal,Kolkata,Mechua,26-10-2014,73.62,5293,6107,5807,10,2014,October
+West Bengal,Kolkata,Mechua,02-11-2014,73.61666667,5350,6122,5722,11,2014,November
+West Bengal,Kolkata,Mechua,09-11-2014,67.96,5273,6080,5633,11,2014,November
+West Bengal,Kolkata,Mechua,16-11-2014,72.85,5206,6022,5578,11,2014,November
+West Bengal,Kolkata,Mechua,23-11-2014,75.38333333,5433,6356,5822,11,2014,November
+West Bengal,Kolkata,Mechua,30-11-2014,76.4,5567,6583,6028,11,2014,November
+West Bengal,Kolkata,Mechua,07-12-2014,81.35,5594,6594,6072,12,2014,December
+West Bengal,Kolkata,Mechua,14-12-2014,82.41666667,5672,6622,6200,12,2014,December
+West Bengal,Kolkata,Mechua,21-12-2014,85.7,5483,6378,5978,12,2014,December
+West Bengal,Kolkata,Mechua,28-12-2014,86.86,5400,6187,5847,12,2014,December
+West Bengal,Kolkata,Mechua,04-01-2015,84.2,5400,6180,5893,1,2015,January
+West Bengal,Kolkata,Mechua,11-01-2015,86.63333333,5183,6033,5628,1,2015,January
+West Bengal,Kolkata,Mechua,18-01-2015,88.51666667,5133,5950,5506,1,2015,January
+West Bengal,Kolkata,Mechua,25-01-2015,86.48333333,5450,6472,5911,1,2015,January
+West Bengal,Kolkata,Mechua,01-02-2015,70.775,5942,7058,6458,2,2015,February
+West Bengal,Kolkata,Mechua,08-02-2015,60.73333333,6244,7350,6789,2,2015,February
+West Bengal,Kolkata,Mechua,15-02-2015,49.21666667,6556,7633,7000,2,2015,February
+West Bengal,Kolkata,Mechua,22-02-2015,46.78333333,6589,7689,7050,2,2015,February
+West Bengal,Kolkata,Mechua,06-09-2015,42.125,5942,6900,6433,9,2015,September
+West Bengal,Kolkata,Mechua,13-09-2015,53.48333333,5533,6522,6039,9,2015,September
+West Bengal,Kolkata,Mechua,20-09-2015,56.76666667,5350,6250,5750,9,2015,September
+West Bengal,Kolkata,Mechua,27-09-2015,70.62,5153,5933,5520,9,2015,September
+West Bengal,Kolkata,Mechua,04-10-2015,74.53333333,5244,6006,5728,10,2015,October
+West Bengal,Kolkata,Mechua,11-10-2015,75.73333333,5367,6178,5933,10,2015,October
+West Bengal,Kolkata,Mechua,18-10-2015,76.34,5533,6400,6067,10,2015,October
+West Bengal,Kolkata,Mechua,25-10-2015,71.95333333,6211,7178,6744,10,2015,October
+West Bengal,Kolkata,Mechua,01-11-2015,67.56666667,6889,7956,7422,11,2015,November
+West Bengal,Kolkata,Mechua,08-11-2015,67.96666667,6750,7783,7233,11,2015,November
+West Bengal,Kolkata,Mechua,15-11-2015,70.1,6317,7217,6900,11,2015,November
+West Bengal,Kolkata,Mechua,22-11-2015,73.675,5883,6742,6417,11,2015,November
+West Bengal,Kolkata,Mechua,29-11-2015,75.08333333,5517,6411,5978,11,2015,November
+West Bengal,Kolkata,Mechua,06-12-2015,74.65,5317,6311,5883,12,2015,December
+West Bengal,Kolkata,Mechua,13-12-2015,71.78333333,5428,6439,5961,12,2015,December
+West Bengal,Kolkata,Mechua,20-12-2015,71.66666667,5467,6500,5950,12,2015,December
+West Bengal,Kolkata,Mechua,27-12-2015,72.06666667,5467,6456,5922,12,2015,December
+West Bengal,Kolkata,Mechua,03-01-2016,73.5,5533,6522,6089,1,2016,January
+West Bengal,Kolkata,Mechua,10-01-2016,73.32,5627,6640,6247,1,2016,January
+West Bengal,Kolkata,Mechua,17-01-2016,70.74,5880,6840,6373,1,2016,January
+West Bengal,Kolkata,Mechua,24-01-2016,66.64,6033,7073,6560,1,2016,January
+West Bengal,Kolkata,Mechua,31-01-2016,60.73333333,6222,7200,6733,1,2016,January
+West Bengal,Kolkata,Mechua,07-02-2016,57.38333333,6428,7472,6967,2,2016,February
+West Bengal,Kolkata,Mechua,14-02-2016,47.25,6675,7400,7258,2,2016,February
+West Bengal,Kolkata,Mechua,21-02-2016,40,6000,6500,6167,2,2016,February
+West Bengal,Kolkata,Mechua,28-02-2016,38.125,6667,7175,7050,2,2016,February
+West Bengal,Kolkata,Mechua,04-09-2016,32.33333333,7889,8033,7944,9,2016,September
+West Bengal,Kolkata,Mechua,11-09-2016,32.71428571,7686,7819,7729,9,2016,September
+West Bengal,Kolkata,Mechua,18-09-2016,34.62857143,7443,7586,7476,9,2016,September
+West Bengal,Kolkata,Mechua,25-09-2016,32.84285714,7157,7267,7219,9,2016,September
+West Bengal,Kolkata,Mechua,02-10-2016,33.28571429,6838,6995,6848,10,2016,October
+West Bengal,Kolkata,Mechua,09-10-2016,33.35714286,6624,6771,6729,10,2016,October
+West Bengal,Kolkata,Mechua,16-10-2016,37.35,6608,6817,6708,10,2016,October
+West Bengal,Kolkata,Mechua,23-10-2016,36.13333333,6608,6796,6699,10,2016,October
+West Bengal,Kolkata,Mechua,30-10-2016,34.91666667,6607,6774,6689,10,2016,October
+West Bengal,Kolkata,Mechua,06-11-2016,33.7,6607,6753,6680,11,2016,November
+West Bengal,Kolkata,Mechua,13-11-2016,31.75,6613,6763,6687,11,2016,November
+West Bengal,Kolkata,Mechua,20-11-2016,29.8,6620,6773,6693,11,2016,November
+West Bengal,Kolkata,Mechua,27-11-2016,36.45,6222,6606,6383,11,2016,November
+West Bengal,Kolkata,Mechua,04-12-2016,41.08333333,5894,6461,6194,12,2016,December
+West Bengal,Kolkata,Mechua,11-12-2016,44.725,6400,7233,6850,12,2016,December
+West Bengal,Kolkata,Mechua,18-12-2016,44.8,6342,7158,6700,12,2016,December
+West Bengal,Kolkata,Mechua,25-12-2016,47.5,6367,7200,6767,12,2016,December
+West Bengal,Kolkata,Mechua,01-01-2017,47.39411765,6454,7312,6860,1,2017,January
+West Bengal,Kolkata,Mechua,08-01-2017,47.28823529,6541,7424,6953,1,2017,January
+West Bengal,Kolkata,Mechua,15-01-2017,46.85714286,6593,7429,7029,1,2017,January
+West Bengal,Kolkata,Mechua,22-01-2017,45.91666667,6856,7833,7278,1,2017,January
+West Bengal,Kolkata,Mechua,29-01-2017,46.91666667,6806,7850,7278,1,2017,January
+West Bengal,Kolkata,Mechua,05-02-2017,48,6622,7667,7156,2,2017,February
+West Bengal,Kolkata,Mechua,12-02-2017,48,6527,7593,7027,2,2017,February
+West Bengal,Kolkata,Mechua,19-02-2017,48,6589,7600,7067,2,2017,February
+West Bengal,Kolkata,Mechua,26-02-2017,50.1,6687,7800,7253,2,2017,February
+West Bengal,Kolkata,Mechua,03-09-2017,67,7000,9000,8000,9,2017,September
+West Bengal,Kolkata,Mechua,10-09-2017,70.41666667,6667,7833,7261,9,2017,September
+West Bengal,Kolkata,Mechua,17-09-2017,74.33333333,5833,7250,6561,9,2017,September
+West Bengal,Kolkata,Mechua,24-09-2017,74.33333333,5444,7111,6333,9,2017,September
+West Bengal,Kolkata,Mechua,01-10-2017,77.2,5800,7800,6800,10,2017,October
+West Bengal,Kolkata,Mechua,08-10-2017,73.85294118,5324,7235,6324,10,2017,October
+West Bengal,Kolkata,Mechua,15-10-2017,73.2,5967,7400,6533,10,2017,October
+West Bengal,Kolkata,Mechua,22-10-2017,75.16666667,5500,6667,6167,10,2017,October
+West Bengal,Kolkata,Mechua,29-10-2017,77.25,6056,7117,6656,10,2017,October
+West Bengal,Kolkata,Mechua,05-11-2017,77.16666667,6028,7583,6889,11,2017,November
+West Bengal,Kolkata,Mechua,12-11-2017,77.25,5583,6683,6272,11,2017,November
+West Bengal,Kolkata,Mechua,19-11-2017,75.58333333,4994,6028,5594,11,2017,November
+West Bengal,Kolkata,Mechua,26-11-2017,76.75,4500,5528,5178,11,2017,November
+West Bengal,Kolkata,Mechua,03-12-2017,74.41666667,5500,6533,6106,12,2017,December
+West Bengal,Kolkata,Mechua,10-12-2017,74.33333333,5200,6256,5811,12,2017,December
+West Bengal,Kolkata,Mechua,17-12-2017,74.33333333,5056,6250,5683,12,2017,December
+West Bengal,Kolkata,Mechua,24-12-2017,75.58333333,6000,7017,6611,12,2017,December
+West Bengal,Kolkata,Mechua,31-12-2017,75.08333333,6083,7094,6711,12,2017,December
+West Bengal,Kolkata,Mechua,07-01-2018,74.25,5667,6672,6328,1,2018,January
+West Bengal,Kolkata,Mechua,14-01-2018,74.5,5917,6917,6517,1,2018,January
+West Bengal,Kolkata,Mechua,21-01-2018,74.25,5583,6617,6267,1,2018,January
+West Bengal,Kolkata,Mechua,28-01-2018,76,5500,6553,6293,1,2018,January
+West Bengal,Kolkata,Mechua,04-02-2018,76,5500,6550,6122,2,2018,February
+West Bengal,Kolkata,Mechua,11-02-2018,72.16666667,5433,6389,5994,2,2018,February
+West Bengal,Kolkata,Mechua,18-02-2018,72.08333333,6517,7683,7100,2,2018,February
+West Bengal,Kolkata,Mechua,25-02-2018,76,6167,7172,6722,2,2018,February
+West Bengal,Kolkata,Mechua,02-09-2018,264.5,7000,8500,7833,9,2018,September
+West Bengal,Kolkata,Mechua,09-09-2018,186.8333333,6583,7672,7156,9,2018,September
+West Bengal,Kolkata,Mechua,16-09-2018,182.25,6000,7500,6956,9,2018,September
+West Bengal,Kolkata,Mechua,23-09-2018,188.1666667,6500,7761,7311,9,2018,September
+West Bengal,Kolkata,Mechua,30-09-2018,193.0833333,6333,7500,7022,9,2018,September
+West Bengal,Kolkata,Mechua,07-10-2018,211.2857143,5952,7357,6786,10,2018,October
+West Bengal,Kolkata,Mechua,14-10-2018,267.3,4400,6307,5727,10,2018,October
+West Bengal,Kolkata,Mechua,21-10-2018,288.7,6000,7540,6953,10,2018,October
+West Bengal,Kolkata,Mechua,28-10-2018,298.1666667,6000,7683,7189,10,2018,October
+West Bengal,Kolkata,Mechua,04-11-2018,350.25,5917,7725,6917,11,2018,November
+West Bengal,Kolkata,Mechua,11-11-2018,402,6000,7500,7000,11,2018,November
+West Bengal,Kolkata,Mechua,18-11-2018,357.5833333,6750,8000,7517,11,2018,November
+West Bengal,Kolkata,Mechua,25-11-2018,399.5,5333,6417,5928,11,2018,November
+West Bengal,Kolkata,Mechua,02-12-2018,490.8333333,4389,5450,5000,12,2018,December
+West Bengal,Kolkata,Mechua,09-12-2018,348,4261,5439,5044,12,2018,December
+West Bengal,Kolkata,Mechua,16-12-2018,282.75,4022,4900,4583,12,2018,December
+West Bengal,Kolkata,Mechua,23-12-2018,306,5000,5978,5567,12,2018,December
+West Bengal,Kolkata,Mechua,30-12-2018,286.5,4017,4833,4533,12,2018,December
+West Bengal,Kolkata,Mechua,06-01-2019,261.0833333,4250,5156,4761,1,2019,January
+West Bengal,Kolkata,Mechua,13-01-2019,284,5167,6522,6044,1,2019,January
+West Bengal,Kolkata,Mechua,20-01-2019,230.9166667,4944,6472,5961,1,2019,January
+West Bengal,Kolkata,Mechua,27-01-2019,244.0833333,4894,6572,5900,1,2019,January
+West Bengal,Kolkata,Mechua,03-02-2019,168.0833333,4550,6694,5683,2,2019,February
+West Bengal,Kolkata,Mechua,10-02-2019,77.75,5094,6750,6139,2,2019,February
+West Bengal,Kolkata,Mechua,17-02-2019,142.1666667,4517,6539,6039,2,2019,February
+West Bengal,Kolkata,Mechua,24-02-2019,113,5167,7000,6500,2,2019,February
+West Bengal,Kolkata,Mechua,01-09-2019,56.9037037,6721,8695,8215,9,2019,September
+West Bengal,Kolkata,Mechua,08-09-2019,55.9,6800,8800,8320,9,2019,September
+West Bengal,Kolkata,Mechua,15-09-2019,105.5,6667,9000,8407,9,2019,September
+West Bengal,Kolkata,Mechua,22-09-2019,176.8,6600,8300,7787,9,2019,September
+West Bengal,Kolkata,Mechua,29-09-2019,177.5833333,5222,7689,7061,9,2019,September
+West Bengal,Kolkata,Mechua,06-10-2019,178.3333333,6167,8128,7483,10,2019,October
+West Bengal,Kolkata,Mechua,13-10-2019,195.5,7000,9000,8350,10,2019,October
+West Bengal,Kolkata,Mechua,20-10-2019,120.95,7189,9433,8522,10,2019,October
+West Bengal,Kolkata,Mechua,27-10-2019,203.8571429,5333,7424,6729,10,2019,October
+West Bengal,Kolkata,Mechua,03-11-2019,231.8,5400,7613,6947,11,2019,November
+West Bengal,Kolkata,Mechua,10-11-2019,319.3333333,5889,7850,7067,11,2019,November
+West Bengal,Kolkata,Mechua,17-11-2019,250,4907,6800,6067,11,2019,November
+West Bengal,Kolkata,Mechua,24-11-2019,181.5,4778,6289,5789,11,2019,November
+West Bengal,Kolkata,Mechua,01-12-2019,314.8333333,4561,6606,6083,12,2019,December
+West Bengal,Kolkata,Mechua,08-12-2019,369.6666667,4000,5972,5483,12,2019,December
+West Bengal,Kolkata,Mechua,15-12-2019,391,4000,6528,5861,12,2019,December
+West Bengal,Kolkata,Mechua,22-12-2019,201.9833333,4000,6706,5939,12,2019,December
+West Bengal,Kolkata,Mechua,29-12-2019,61.66666667,5000,7767,6772,12,2019,December
+West Bengal,Kolkata,Mechua,05-01-2020,134.5,5187,7360,6627,1,2020,January
+West Bengal,Kolkata,Mechua,12-01-2020,275.7,5080,6827,6213,1,2020,January
+West Bengal,Kolkata,Mechua,19-01-2020,259.6666667,5222,7094,6439,1,2020,January
+West Bengal,Kolkata,Mechua,26-01-2020,140.7,5380,7733,7073,1,2020,January
+West Bengal,Kolkata,Mechua,02-02-2020,77.35,5140,7317,6753,2,2020,February
+West Bengal,Kolkata,Mechua,09-02-2020,14,4900,6900,6433,2,2020,February
+West Bengal,Kolkata,Mechua,16-02-2020,121.6333333,4572,6717,6089,2,2020,February
+West Bengal,Kolkata,Mechua,23-02-2020,144.3,4529,6548,6043,2,2020,February
+West Bengal,Kolkata,Mechua,06-09-2020,237.959,7020,9081,8097,9,2020,September
+West Bengal,Kolkata,Mechua,13-09-2020,241.656,7119,9182,8181,9,2020,September
+West Bengal,Kolkata,Mechua,20-09-2020,245.353,7218,9283,8266,9,2020,September
+West Bengal,Kolkata,Mechua,27-09-2020,249.05,7317,9383,8350,9,2020,September
+West Bengal,Kolkata,Mechua,04-10-2020,284.2666667,7133,9133,8167,10,2020,October
+West Bengal,Kolkata,Mechua,11-10-2020,281.4131944,7176,9176,8210,10,2020,October
+West Bengal,Kolkata,Mechua,18-10-2020,278.5597222,7219,9219,8253,10,2020,October
+West Bengal,Kolkata,Mechua,25-10-2020,275.70625,7262,9261,8296,10,2020,October
+West Bengal,Kolkata,Mechua,01-11-2020,272.8527778,7305,9304,8339,11,2020,November
+West Bengal,Kolkata,Mechua,08-11-2020,269.9993056,7348,9347,8382,11,2020,November
+West Bengal,Kolkata,Mechua,15-11-2020,267.1458333,7391,9389,8425,11,2020,November
+West Bengal,Kolkata,Mechua,22-11-2020,264.2923611,7434,9432,8468,11,2020,November
+West Bengal,Kolkata,Mechua,29-11-2020,261.4388889,7477,9474,8511,11,2020,November
+West Bengal,Kolkata,Mechua,06-12-2020,258.5854167,7520,9517,8554,12,2020,December
+West Bengal,Kolkata,Mechua,13-12-2020,255.7319444,7562,9560,8597,12,2020,December
+West Bengal,Kolkata,Mechua,20-12-2020,252.8784722,7605,9602,8640,12,2020,December
+West Bengal,Kolkata,Mechua,27-12-2020,250.025,7648,9645,8683,12,2020,December
+West Bengal,Kolkata,Mechua,03-01-2021,247.1715278,7691,9688,8726,1,2021,January
+West Bengal,Kolkata,Mechua,10-01-2021,244.3180556,7734,9730,8769,1,2021,January
+West Bengal,Kolkata,Mechua,17-01-2021,241.4645833,7777,9773,8812,1,2021,January
+West Bengal,Kolkata,Mechua,24-01-2021,238.6111111,7820,9816,8856,1,2021,January
+West Bengal,Kolkata,Mechua,31-01-2021,235.7576389,7863,9858,8899,1,2021,January
+West Bengal,Kolkata,Mechua,07-02-2021,232.9041667,7906,9901,8942,2,2021,February
+West Bengal,Kolkata,Mechua,14-02-2021,230.0506944,7949,9943,8985,2,2021,February
+West Bengal,Kolkata,Mechua,21-02-2021,227.1972222,7992,9986,9028,2,2021,February
+West Bengal,Kolkata,Mechua,28-02-2021,224.34375,8035,10029,9071,2,2021,February
+West Bengal,Kolkata,Mechua,05-09-2021,147.3,9193,11180,10233,9,2021,September
+West Bengal,Kolkata,Mechua,12-09-2021,179.6,7548,9567,8619,9,2021,September
+West Bengal,Kolkata,Mechua,19-09-2021,195.0333333,6100,7956,7067,9,2021,September
+West Bengal,Kolkata,Mechua,26-09-2021,196.2916667,6133,7819,7017,9,2021,September
+West Bengal,Kolkata,Mechua,03-10-2021,197.55,6167,7683,6967,10,2021,October
+West Bengal,Kolkata,Mechua,10-10-2021,207.25,5850,7833,6833,10,2021,October
+West Bengal,Kolkata,Mechua,17-10-2021,197.6,6133,8000,7133,10,2021,October
+West Bengal,Kolkata,Mechua,24-10-2021,196.6727273,6155,7994,7133,10,2021,October
+West Bengal,Kolkata,Mechua,31-10-2021,195.7454545,6176,7988,7133,10,2021,October
+West Bengal,Kolkata,Mechua,07-11-2021,194.8181818,6197,7982,7133,11,2021,November
+West Bengal,Kolkata,Mechua,14-11-2021,193.8909091,6218,7976,7133,11,2021,November
+West Bengal,Kolkata,Mechua,21-11-2021,192.9636364,6239,7970,7133,11,2021,November
+West Bengal,Kolkata,Mechua,28-11-2021,192.0363636,6261,7964,7133,11,2021,November
+West Bengal,Kolkata,Mechua,05-12-2021,191.1090909,6282,7958,7133,12,2021,December
+West Bengal,Kolkata,Mechua,12-12-2021,190.1818182,6303,7952,7133,12,2021,December
+West Bengal,Kolkata,Mechua,19-12-2021,189.2545455,6324,7945,7133,12,2021,December
+West Bengal,Kolkata,Mechua,26-12-2021,188.3272727,6345,7939,7133,12,2021,December
+West Bengal,Kolkata,Mechua,02-01-2022,187.4,6367,7933,7133,1,2022,January
+West Bengal,Kolkata,Mechua,09-01-2022,179.5,6220,8020,7207,1,2022,January
+West Bengal,Kolkata,Mechua,16-01-2022,183.1833333,6094,7906,7061,1,2022,January
+West Bengal,Kolkata,Mechua,23-01-2022,180.525,5933,7550,6850,1,2022,January
+West Bengal,Kolkata,Mechua,30-01-2022,182.5714286,6205,7957,7148,1,2022,January
+West Bengal,Kolkata,Mechua,06-02-2022,183.9571429,6352,8281,7352,2,2022,February
+West Bengal,Kolkata,Mechua,13-02-2022,178.52,6307,8260,7280,2,2022,February
+West Bengal,Kolkata,Mechua,20-02-2022,175.8666667,6283,8150,7261,2,2022,February
+West Bengal,Kolkata,Mechua,27-02-2022,173.9333333,6100,8022,7100,2,2022,February
+West Bengal,Kolkata,Mechua,04-09-2022,123.25,8000,8875,8525,9,2022,September
+West Bengal,Kolkata,Mechua,11-09-2022,122.1714286,7143,8119,7900,9,2022,September
+West Bengal,Kolkata,Mechua,18-09-2022,123.3571429,7000,8181,7648,9,2022,September
+West Bengal,Kolkata,Mechua,25-09-2022,130.7571429,7314,8038,7438,9,2022,September
+West Bengal,Kolkata,Mechua,02-10-2022,99.47142857,6929,7905,7338,10,2022,October
+West Bengal,Kolkata,Mechua,09-10-2022,146.0857143,7000,8121,7571,10,2022,October
+West Bengal,Kolkata,Mechua,16-10-2022,134.6857143,6810,7629,7100,10,2022,October
+West Bengal,Kolkata,Mechua,23-10-2022,136.8142857,6000,7067,6610,10,2022,October
+West Bengal,Kolkata,Mechua,30-10-2022,136.1,6381,7362,6890,10,2022,October
+West Bengal,Kolkata,Mechua,06-11-2022,133.9285714,6000,6733,6457,11,2022,November
+West Bengal,Kolkata,Mechua,13-11-2022,133.5090909,5677,6673,6250,11,2022,November
+West Bengal,Kolkata,Mechua,20-11-2022,127.3,6033,7329,6738,11,2022,November
+West Bengal,Kolkata,Mechua,27-11-2022,125.9571429,6762,8129,7486,11,2022,November
+West Bengal,Kolkata,Mechua,04-12-2022,125.5714286,6838,7971,7390,12,2022,December
+West Bengal,Kolkata,Mechua,11-12-2022,125.8571429,6781,7600,7176,12,2022,December
+West Bengal,Kolkata,Mechua,18-12-2022,126.7,6867,7581,7167,12,2022,December
+West Bengal,Kolkata,Mechua,25-12-2022,139.3571429,6438,7395,6867,12,2022,December
+Uttar Pradesh,Sultanpur,Sultanpur,06-01-2013,8.916666667,5600,6000,5800,1,2013,January
+Uttar Pradesh,Sultanpur,Sultanpur,13-01-2013,10.25,5567,5850,5700,1,2013,January
+Uttar Pradesh,Sultanpur,Sultanpur,20-01-2013,10.16666667,5600,5967,5800,1,2013,January
+Uttar Pradesh,Sultanpur,Sultanpur,27-01-2013,11.33333333,5758,6200,5883,1,2013,January
+Uttar Pradesh,Sultanpur,Sultanpur,03-02-2013,8.75,5900,6417,6050,2,2013,February
+Uttar Pradesh,Sultanpur,Sultanpur,10-02-2013,10.75,6317,6733,6500,2,2013,February
+Uttar Pradesh,Sultanpur,Sultanpur,17-02-2013,10.66666667,6425,6808,6642,2,2013,February
+Uttar Pradesh,Sultanpur,Sultanpur,24-02-2013,7.833333333,6558,6883,6750,2,2013,February
+Uttar Pradesh,Sultanpur,Sultanpur,01-09-2013,19.67592593,5121,5509,5336,9,2013,September
+Uttar Pradesh,Sultanpur,Sultanpur,08-09-2013,20,5067,5458,5283,9,2013,September
+Uttar Pradesh,Sultanpur,Sultanpur,15-09-2013,30,4250,4667,4433,9,2013,September
+Uttar Pradesh,Sultanpur,Sultanpur,22-09-2013,24.16666667,3650,4133,3900,9,2013,September
+Uttar Pradesh,Sultanpur,Sultanpur,29-09-2013,19.16666667,4167,4667,4500,9,2013,September
+Uttar Pradesh,Sultanpur,Sultanpur,06-10-2013,19,4220,4760,4530,10,2013,October
+Uttar Pradesh,Sultanpur,Sultanpur,13-10-2013,16.16666667,4300,4817,4642,10,2013,October
+Uttar Pradesh,Sultanpur,Sultanpur,20-10-2013,25,4267,4783,4567,10,2013,October
+Uttar Pradesh,Sultanpur,Sultanpur,27-10-2013,18.5,4300,4783,4625,10,2013,October
+Uttar Pradesh,Sultanpur,Sultanpur,03-11-2013,15.66666667,4583,4958,4800,11,2013,November
+Uttar Pradesh,Sultanpur,Sultanpur,10-11-2013,15.41666667,4658,5183,4925,11,2013,November
+Uttar Pradesh,Sultanpur,Sultanpur,17-11-2013,12.41666667,4675,5242,4967,11,2013,November
+Uttar Pradesh,Sultanpur,Sultanpur,24-11-2013,15.83333333,4642,5142,4908,11,2013,November
+Uttar Pradesh,Sultanpur,Sultanpur,01-12-2013,14.08333333,4542,5100,4900,12,2013,December
+Uttar Pradesh,Sultanpur,Sultanpur,08-12-2013,16.83333333,4592,5125,4950,12,2013,December
+Uttar Pradesh,Sultanpur,Sultanpur,15-12-2013,17,4600,5080,4890,12,2013,December
+Uttar Pradesh,Sultanpur,Sultanpur,22-12-2013,9.833333333,4733,5200,5067,12,2013,December
+Uttar Pradesh,Sultanpur,Sultanpur,29-12-2013,10.85416667,4792,5250,5102,12,2013,December
+Uttar Pradesh,Sultanpur,Sultanpur,05-01-2014,11.875,4850,5300,5138,1,2014,January
+Uttar Pradesh,Sultanpur,Sultanpur,12-01-2014,7.5,4900,5400,5100,1,2014,January
+Uttar Pradesh,Sultanpur,Sultanpur,19-01-2014,6.625,4788,5925,4962,1,2014,January
+Uttar Pradesh,Sultanpur,Sultanpur,26-01-2014,8.8,5160,5600,5390,1,2014,January
+Uttar Pradesh,Sultanpur,Sultanpur,02-02-2014,10.75,5600,6050,5867,2,2014,February
+Uttar Pradesh,Sultanpur,Sultanpur,09-02-2014,12.08333333,6100,6517,6358,2,2014,February
+Uttar Pradesh,Sultanpur,Sultanpur,16-02-2014,9.583333333,6217,6983,6467,2,2014,February
+Uttar Pradesh,Sultanpur,Sultanpur,23-02-2014,8.166666667,6283,6683,6500,2,2014,February
+Uttar Pradesh,Sultanpur,Sultanpur,07-09-2014,25,5275,5408,5342,9,2014,September
+Uttar Pradesh,Sultanpur,Sultanpur,14-09-2014,26.66666667,4962,5133,5033,9,2014,September
+Uttar Pradesh,Sultanpur,Sultanpur,21-09-2014,28.2,4995,5120,5055,9,2014,September
+Uttar Pradesh,Sultanpur,Sultanpur,28-09-2014,32.91666667,5242,5371,5304,9,2014,September
+Uttar Pradesh,Sultanpur,Sultanpur,05-10-2014,20.75,5342,5533,5433,10,2014,October
+Uttar Pradesh,Sultanpur,Sultanpur,12-10-2014,16.75,5283,5467,5375,10,2014,October
+Uttar Pradesh,Sultanpur,Sultanpur,19-10-2014,22,5320,5490,5405,10,2014,October
+Uttar Pradesh,Sultanpur,Sultanpur,26-10-2014,25.83333333,5350,5483,5412,10,2014,October
+Uttar Pradesh,Sultanpur,Sultanpur,02-11-2014,25.83333333,5350,5517,5429,11,2014,November
+Uttar Pradesh,Sultanpur,Sultanpur,09-11-2014,25.83333333,5350,5483,5417,11,2014,November
+Uttar Pradesh,Sultanpur,Sultanpur,16-11-2014,24.16666667,5308,5400,5354,11,2014,November
+Uttar Pradesh,Sultanpur,Sultanpur,23-11-2014,25.83333333,5392,5525,5454,11,2014,November
+Uttar Pradesh,Sultanpur,Sultanpur,30-11-2014,21.66666667,5375,5483,5425,11,2014,November
+Uttar Pradesh,Sultanpur,Sultanpur,07-12-2014,30,5175,5317,5250,12,2014,December
+Uttar Pradesh,Sultanpur,Sultanpur,14-12-2014,26.5,5020,5170,5090,12,2014,December
+Uttar Pradesh,Sultanpur,Sultanpur,21-12-2014,18.66666667,5275,5383,5325,12,2014,December
+Uttar Pradesh,Sultanpur,Sultanpur,28-12-2014,17.25,5642,5783,5717,12,2014,December
+Uttar Pradesh,Sultanpur,Sultanpur,04-01-2015,20.41666667,5983,6150,6067,1,2015,January
+Uttar Pradesh,Sultanpur,Sultanpur,11-01-2015,28.75,6025,6167,6108,1,2015,January
+Uttar Pradesh,Sultanpur,Sultanpur,18-01-2015,16.83333333,6208,6308,6254,1,2015,January
+Uttar Pradesh,Sultanpur,Sultanpur,25-01-2015,19.66666667,6300,6408,6362,1,2015,January
+Uttar Pradesh,Sultanpur,Sultanpur,01-02-2015,22.5,6288,6392,6342,2,2015,February
+Uttar Pradesh,Sultanpur,Sultanpur,08-02-2015,31.66666667,6125,6242,6188,2,2015,February
+Uttar Pradesh,Sultanpur,Sultanpur,15-02-2015,18.75,6092,6225,6175,2,2015,February
+Uttar Pradesh,Sultanpur,Sultanpur,22-02-2015,23.91666667,6258,6354,6308,2,2015,February
+Uttar Pradesh,Sultanpur,Sultanpur,06-09-2015,51,5470,5590,5540,9,2015,September
+Uttar Pradesh,Sultanpur,Sultanpur,13-09-2015,55.41666667,4975,5117,5050,9,2015,September
+Uttar Pradesh,Sultanpur,Sultanpur,20-09-2015,46.25,5000,5150,5061,9,2015,September
+Uttar Pradesh,Sultanpur,Sultanpur,27-09-2015,41.66666667,4858,5000,4929,9,2015,September
+Uttar Pradesh,Sultanpur,Sultanpur,04-10-2015,28.75,4925,5067,4992,10,2015,October
+Uttar Pradesh,Sultanpur,Sultanpur,11-10-2015,24.4,5310,5460,5390,10,2015,October
+Uttar Pradesh,Sultanpur,Sultanpur,18-10-2015,33,5600,5740,5670,10,2015,October
+Uttar Pradesh,Sultanpur,Sultanpur,25-10-2015,32.5,5775,5875,5833,10,2015,October
+Uttar Pradesh,Sultanpur,Sultanpur,01-11-2015,29.16666667,5800,5908,5862,11,2015,November
+Uttar Pradesh,Sultanpur,Sultanpur,08-11-2015,27.5,5750,5900,5825,11,2015,November
+Uttar Pradesh,Sultanpur,Sultanpur,15-11-2015,30,5850,6008,5933,11,2015,November
+Uttar Pradesh,Sultanpur,Sultanpur,22-11-2015,34.5,5733,5900,5825,11,2015,November
+Uttar Pradesh,Sultanpur,Sultanpur,29-11-2015,26.66666667,5250,5383,5325,11,2015,November
+Uttar Pradesh,Sultanpur,Sultanpur,06-12-2015,24.75,5233,5333,5282,12,2015,December
+Uttar Pradesh,Sultanpur,Sultanpur,13-12-2015,24.75,5342,5467,5423,12,2015,December
+Uttar Pradesh,Sultanpur,Sultanpur,20-12-2015,105.4166667,5538,5642,5600,12,2015,December
+Uttar Pradesh,Sultanpur,Sultanpur,27-12-2015,26.41666667,5692,5775,5729,12,2015,December
+Uttar Pradesh,Sultanpur,Sultanpur,03-01-2016,30.75,5825,5912,5872,1,2016,January
+Uttar Pradesh,Sultanpur,Sultanpur,10-01-2016,30.5,5750,5838,5794,1,2016,January
+Uttar Pradesh,Sultanpur,Sultanpur,17-01-2016,30.58333333,5175,5283,5233,1,2016,January
+Uttar Pradesh,Sultanpur,Sultanpur,24-01-2016,29.625,5025,5125,5081,1,2016,January
+Uttar Pradesh,Sultanpur,Sultanpur,31-01-2016,30.66666667,4917,5017,4975,1,2016,January
+Uttar Pradesh,Sultanpur,Sultanpur,07-02-2016,26.125,4888,5025,4962,2,2016,February
+Uttar Pradesh,Sultanpur,Sultanpur,14-02-2016,19.25,4950,5088,5025,2,2016,February
+Uttar Pradesh,Sultanpur,Sultanpur,21-02-2016,17,5317,5442,5379,2,2016,February
+Uttar Pradesh,Sultanpur,Sultanpur,28-02-2016,25,5570,5680,5630,2,2016,February
+Uttar Pradesh,Sultanpur,Sultanpur,04-09-2016,13,6467,6580,6525,9,2016,September
+Uttar Pradesh,Sultanpur,Sultanpur,11-09-2016,24.5,5425,5548,5488,9,2016,September
+Uttar Pradesh,Sultanpur,Sultanpur,18-09-2016,25.33333333,6200,6367,6297,9,2016,September
+Uttar Pradesh,Sultanpur,Sultanpur,25-09-2016,20.58333333,6241,6323,6286,9,2016,September
+Uttar Pradesh,Sultanpur,Sultanpur,02-10-2016,23,6314,6356,6338,10,2016,October
+Uttar Pradesh,Sultanpur,Sultanpur,09-10-2016,31.33333333,6387,6503,6447,10,2016,October
+Uttar Pradesh,Sultanpur,Sultanpur,16-10-2016,23.33333333,6358,6517,6433,10,2016,October
+Uttar Pradesh,Sultanpur,Sultanpur,23-10-2016,25.1,6382,6474,6425,10,2016,October
+Uttar Pradesh,Sultanpur,Sultanpur,30-10-2016,31.8,6262,6396,6326,10,2016,October
+Uttar Pradesh,Sultanpur,Sultanpur,06-11-2016,22.25,6382,6482,6431,11,2016,November
+Uttar Pradesh,Sultanpur,Sultanpur,13-11-2016,23.3,6470,6546,6506,11,2016,November
+Uttar Pradesh,Sultanpur,Sultanpur,20-11-2016,23.25,6550,6612,6582,11,2016,November
+Uttar Pradesh,Sultanpur,Sultanpur,27-11-2016,19.44,6552,6672,6610,11,2016,November
+Uttar Pradesh,Sultanpur,Sultanpur,04-12-2016,16.91666667,5983,6053,6012,12,2016,December
+Uttar Pradesh,Sultanpur,Sultanpur,11-12-2016,24,6904,7004,6950,12,2016,December
+Uttar Pradesh,Sultanpur,Sultanpur,18-12-2016,16.75,6858,6938,6895,12,2016,December
+Uttar Pradesh,Sultanpur,Sultanpur,25-12-2016,12.83333333,6835,6968,6870,12,2016,December
+Uttar Pradesh,Sultanpur,Sultanpur,01-01-2017,5.583333333,6857,6922,6889,1,2017,January
+Uttar Pradesh,Sultanpur,Sultanpur,08-01-2017,4.083333333,6837,6900,6872,1,2017,January
+Uttar Pradesh,Sultanpur,Sultanpur,15-01-2017,4.833333333,6843,6900,6873,1,2017,January
+Uttar Pradesh,Sultanpur,Sultanpur,22-01-2017,5.583333333,6832,6895,6867,1,2017,January
+Uttar Pradesh,Sultanpur,Sultanpur,29-01-2017,6.375,6810,6885,6846,1,2017,January
+Uttar Pradesh,Sultanpur,Sultanpur,05-02-2017,5.416666667,6817,6905,6858,2,2017,February
+Uttar Pradesh,Sultanpur,Sultanpur,12-02-2017,4.4,6944,7028,6986,2,2017,February
+Uttar Pradesh,Sultanpur,Sultanpur,19-02-2017,5.55,6983,7062,7025,2,2017,February
+Uttar Pradesh,Sultanpur,Sultanpur,26-02-2017,5.4,7034,7120,7080,2,2017,February
+Uttar Pradesh,Sultanpur,Sultanpur,03-09-2017,7.666666667,5917,6043,5983,9,2017,September
+Uttar Pradesh,Sultanpur,Sultanpur,10-09-2017,8.071428571,5626,5754,5686,9,2017,September
+Uttar Pradesh,Sultanpur,Sultanpur,17-09-2017,6.614285714,5310,5433,5369,9,2017,September
+Uttar Pradesh,Sultanpur,Sultanpur,24-09-2017,7.785714286,5129,5259,5191,9,2017,September
+Uttar Pradesh,Sultanpur,Sultanpur,01-10-2017,6.1,5120,5240,5180,10,2017,October
+Uttar Pradesh,Sultanpur,Sultanpur,08-10-2017,5.642857143,5176,5281,5230,10,2017,October
+Uttar Pradesh,Sultanpur,Sultanpur,15-10-2017,5.25,5178,5268,5225,10,2017,October
+Uttar Pradesh,Sultanpur,Sultanpur,22-10-2017,5.5,5187,5325,5258,10,2017,October
+Uttar Pradesh,Sultanpur,Sultanpur,29-10-2017,5,5303,5426,5357,10,2017,October
+Uttar Pradesh,Sultanpur,Sultanpur,05-11-2017,5.5,5324,5451,5386,11,2017,November
+Uttar Pradesh,Sultanpur,Sultanpur,12-11-2017,5.571428571,5373,5473,5426,11,2017,November
+Uttar Pradesh,Sultanpur,Sultanpur,19-11-2017,5.428571429,5386,5471,5429,11,2017,November
+Uttar Pradesh,Sultanpur,Sultanpur,26-11-2017,4.833333333,5363,5485,5417,11,2017,November
+Uttar Pradesh,Sultanpur,Sultanpur,03-12-2017,5.642857143,5379,5473,5413,12,2017,December
+Uttar Pradesh,Sultanpur,Sultanpur,10-12-2017,5.166666667,5397,5480,5438,12,2017,December
+Uttar Pradesh,Sultanpur,Sultanpur,17-12-2017,5,5383,5483,5436,12,2017,December
+Uttar Pradesh,Sultanpur,Sultanpur,24-12-2017,4.583333333,5425,5537,5482,12,2017,December
+Uttar Pradesh,Sultanpur,Sultanpur,31-12-2017,4.5,5400,5508,5452,12,2017,December
+Uttar Pradesh,Sultanpur,Sultanpur,07-01-2018,4.14,4311,5486,4345,1,2018,January
+Uttar Pradesh,Sultanpur,Sultanpur,14-01-2018,3.625,5418,5545,5480,1,2018,January
+Uttar Pradesh,Sultanpur,Sultanpur,21-01-2018,4.125,4084,5512,5470,1,2018,January
+Uttar Pradesh,Sultanpur,Sultanpur,28-01-2018,4.04,3363,5474,5445,1,2018,January
+Uttar Pradesh,Sultanpur,Sultanpur,04-02-2018,4.1,4632,4714,4668,2,2018,February
+Uttar Pradesh,Sultanpur,Sultanpur,11-02-2018,4.34,4329,4397,4362,2,2018,February
+Uttar Pradesh,Sultanpur,Sultanpur,18-02-2018,4.8,4381,4481,4431,2,2018,February
+Uttar Pradesh,Sultanpur,Sultanpur,25-02-2018,4.3,5420,5508,5472,2,2018,February
+Uttar Pradesh,Sultanpur,Sultanpur,02-09-2018,4.1,6225,6375,6325,9,2018,September
+Uttar Pradesh,Sultanpur,Sultanpur,09-09-2018,3.928571429,6307,6443,6368,9,2018,September
+Uttar Pradesh,Sultanpur,Sultanpur,16-09-2018,4,6236,6421,6350,9,2018,September
+Uttar Pradesh,Sultanpur,Sultanpur,23-09-2018,4.014285714,5681,5817,5750,9,2018,September
+Uttar Pradesh,Sultanpur,Sultanpur,30-09-2018,3.885714286,5700,5830,5768,9,2018,September
+Uttar Pradesh,Sultanpur,Sultanpur,07-10-2018,3.957142857,5771,5933,5861,10,2018,October
+Uttar Pradesh,Sultanpur,Sultanpur,14-10-2018,4.171428571,5914,6100,5989,10,2018,October
+Uttar Pradesh,Sultanpur,Sultanpur,21-10-2018,3.942857143,5989,6141,6061,10,2018,October
+Uttar Pradesh,Sultanpur,Sultanpur,28-10-2018,3.942857143,5607,5707,5661,10,2018,October
+Uttar Pradesh,Sultanpur,Sultanpur,04-11-2018,4.028571429,5366,5460,5409,11,2018,November
+Uttar Pradesh,Sultanpur,Sultanpur,11-11-2018,3.328571429,5240,5324,5286,11,2018,November
+Uttar Pradesh,Sultanpur,Sultanpur,18-11-2018,3.242857143,5446,5544,5499,11,2018,November
+Uttar Pradesh,Sultanpur,Sultanpur,25-11-2018,0.387142857,5426,5537,5479,11,2018,November
+Uttar Pradesh,Sultanpur,Sultanpur,02-12-2018,2.04,4939,5174,5111,12,2018,December
+Uttar Pradesh,Sultanpur,Sultanpur,09-12-2018,4.042857143,5000,5143,5069,12,2018,December
+Uttar Pradesh,Sultanpur,Sultanpur,16-12-2018,3.642857143,5074,5156,5116,12,2018,December
+Uttar Pradesh,Sultanpur,Sultanpur,23-12-2018,3.142857143,5113,5191,5154,12,2018,December
+Uttar Pradesh,Sultanpur,Sultanpur,30-12-2018,3.742857143,5071,5196,5131,12,2018,December
+Uttar Pradesh,Sultanpur,Sultanpur,06-01-2019,3.45,5112,5207,5164,1,2019,January
+Uttar Pradesh,Sultanpur,Sultanpur,13-01-2019,3.714285714,5121,5229,5174,1,2019,January
+Uttar Pradesh,Sultanpur,Sultanpur,20-01-2019,3.75,4833,4983,4917,1,2019,January
+Uttar Pradesh,Sultanpur,Sultanpur,27-01-2019,3.583333333,4782,4900,4842,1,2019,January
+Uttar Pradesh,Sultanpur,Sultanpur,03-02-2019,3.542857143,4750,4886,4814,2,2019,February
+Uttar Pradesh,Sultanpur,Sultanpur,10-02-2019,3.571428571,4764,4893,4821,2,2019,February
+Uttar Pradesh,Sultanpur,Sultanpur,17-02-2019,2.785714286,4889,5071,4966,2,2019,February
+Uttar Pradesh,Sultanpur,Sultanpur,24-02-2019,2.428571429,5180,5306,5246,2,2019,February
+Uttar Pradesh,Sultanpur,Sultanpur,01-09-2019,2.5,6300,6400,6350,9,2019,September
+Uttar Pradesh,Sultanpur,Sultanpur,08-09-2019,4.285714286,6344,6514,6429,9,2019,September
+Uttar Pradesh,Sultanpur,Sultanpur,15-09-2019,14.92857143,6014,6229,6114,9,2019,September
+Uttar Pradesh,Sultanpur,Sultanpur,22-09-2019,14,4957,5171,5061,9,2019,September
+Uttar Pradesh,Sultanpur,Sultanpur,29-09-2019,12.85714286,4514,4786,4636,9,2019,September
+Uttar Pradesh,Sultanpur,Sultanpur,06-10-2019,15.78571429,4500,4729,4607,10,2019,October
+Uttar Pradesh,Sultanpur,Sultanpur,13-10-2019,24.58333333,4825,5083,4958,10,2019,October
+Uttar Pradesh,Sultanpur,Sultanpur,20-10-2019,14.71428571,5186,5414,5303,10,2019,October
+Uttar Pradesh,Sultanpur,Sultanpur,27-10-2019,11.42857143,4700,5000,4843,10,2019,October
+Uttar Pradesh,Sultanpur,Sultanpur,03-11-2019,11,4621,4890,4761,11,2019,November
+Uttar Pradesh,Sultanpur,Sultanpur,10-11-2019,9,4219,4323,4277,11,2019,November
+Uttar Pradesh,Sultanpur,Sultanpur,17-11-2019,9.142857143,4364,4573,4449,11,2019,November
+Uttar Pradesh,Sultanpur,Sultanpur,24-11-2019,4.785714286,5214,5400,5307,11,2019,November
+Uttar Pradesh,Sultanpur,Sultanpur,01-12-2019,4,5543,5786,5650,12,2019,December
+Uttar Pradesh,Sultanpur,Sultanpur,08-12-2019,5.428571429,5507,5649,5560,12,2019,December
+Uttar Pradesh,Sultanpur,Sultanpur,15-12-2019,5.857142857,5457,5557,5506,12,2019,December
+Uttar Pradesh,Sultanpur,Sultanpur,22-12-2019,4.285714286,5607,5789,5677,12,2019,December
+Uttar Pradesh,Sultanpur,Sultanpur,29-12-2019,3.785714286,5619,5926,5729,12,2019,December
+Uttar Pradesh,Sultanpur,Sultanpur,05-01-2020,4,5650,5957,5779,1,2020,January
+Uttar Pradesh,Sultanpur,Sultanpur,12-01-2020,4.214285714,5229,5471,5329,1,2020,January
+Uttar Pradesh,Sultanpur,Sultanpur,19-01-2020,3.5,4914,5200,5071,1,2020,January
+Uttar Pradesh,Sultanpur,Sultanpur,26-01-2020,3.785714286,4801,5000,4852,1,2020,January
+Uttar Pradesh,Sultanpur,Sultanpur,02-02-2020,3.357142857,5129,5586,5382,2,2020,February
+Uttar Pradesh,Sultanpur,Sultanpur,09-02-2020,4,5460,5840,5680,2,2020,February
+Uttar Pradesh,Sultanpur,Sultanpur,16-02-2020,3.857142857,5629,6000,5814,2,2020,February
+Uttar Pradesh,Sultanpur,Sultanpur,23-02-2020,3.642857143,5771,6000,5886,2,2020,February
+Uttar Pradesh,Sultanpur,Sultanpur,06-09-2020,4.166666667,6583,6833,6742,9,2020,September
+Uttar Pradesh,Sultanpur,Sultanpur,13-09-2020,3.785714286,6279,6586,6421,9,2020,September
+Uttar Pradesh,Sultanpur,Sultanpur,20-09-2020,3.666666667,6217,6483,6342,9,2020,September
+Uttar Pradesh,Sultanpur,Sultanpur,27-09-2020,3.785714286,6086,6343,6214,9,2020,September
+Uttar Pradesh,Sultanpur,Sultanpur,04-10-2020,5.142857143,5771,5957,5857,10,2020,October
+Uttar Pradesh,Sultanpur,Sultanpur,11-10-2020,4.285714286,5600,5800,5736,10,2020,October
+Uttar Pradesh,Sultanpur,Sultanpur,18-10-2020,4.071428571,5671,5900,5779,10,2020,October
+Uttar Pradesh,Sultanpur,Sultanpur,25-10-2020,3.714285714,5993,6207,6100,10,2020,October
+Uttar Pradesh,Sultanpur,Sultanpur,01-11-2020,3.928571429,5871,6143,6043,11,2020,November
+Uttar Pradesh,Sultanpur,Sultanpur,08-11-2020,3.214285714,5486,5686,5586,11,2020,November
+Uttar Pradesh,Sultanpur,Sultanpur,15-11-2020,2.928571429,5500,5743,5593,11,2020,November
+Uttar Pradesh,Sultanpur,Sultanpur,22-11-2020,3.214285714,5571,5857,5704,11,2020,November
+Uttar Pradesh,Sultanpur,Sultanpur,29-11-2020,2.5,5843,6121,5964,11,2020,November
+Uttar Pradesh,Sultanpur,Sultanpur,06-12-2020,2.785714286,6143,6379,6250,12,2020,December
+Uttar Pradesh,Sultanpur,Sultanpur,13-12-2020,2.785714286,6221,6486,6324,12,2020,December
+Uttar Pradesh,Sultanpur,Sultanpur,20-12-2020,2.642857143,6321,6571,6451,12,2020,December
+Uttar Pradesh,Sultanpur,Sultanpur,27-12-2020,2.257142857,6307,6493,6387,12,2020,December
+Uttar Pradesh,Sultanpur,Sultanpur,03-01-2021,2.928571429,6387,6636,6490,1,2021,January
+Uttar Pradesh,Sultanpur,Sultanpur,10-01-2021,2.5,6443,6714,6568,1,2021,January
+Uttar Pradesh,Sultanpur,Sultanpur,17-01-2021,2.357142857,6500,6714,6614,1,2021,January
+Uttar Pradesh,Sultanpur,Sultanpur,24-01-2021,2.142857143,6664,6914,6786,1,2021,January
+Uttar Pradesh,Sultanpur,Sultanpur,31-01-2021,1.571428571,6800,6986,6854,1,2021,January
+Uttar Pradesh,Sultanpur,Sultanpur,07-02-2021,1.857142857,6929,7157,7036,2,2021,February
+Uttar Pradesh,Sultanpur,Sultanpur,14-02-2021,1.5,7029,7300,7157,2,2021,February
+Uttar Pradesh,Sultanpur,Sultanpur,21-02-2021,1.571428571,7243,7500,7364,2,2021,February
+Uttar Pradesh,Sultanpur,Sultanpur,28-02-2021,1.5,7383,7650,7517,2,2021,February
+Uttar Pradesh,Sultanpur,Sultanpur,05-09-2021,8.1,5694,6050,5854,9,2021,September
+Uttar Pradesh,Sultanpur,Sultanpur,12-09-2021,11.85714286,5536,5786,5646,9,2021,September
+Uttar Pradesh,Sultanpur,Sultanpur,19-09-2021,9.5,5586,5850,5699,9,2021,September
+Uttar Pradesh,Sultanpur,Sultanpur,26-09-2021,6,5921,6200,6043,9,2021,September
+Uttar Pradesh,Sultanpur,Sultanpur,03-10-2021,7.357142857,5951,6209,6067,10,2021,October
+Uttar Pradesh,Sultanpur,Sultanpur,10-10-2021,8.785714286,5957,6236,6069,10,2021,October
+Uttar Pradesh,Sultanpur,Sultanpur,17-10-2021,6,6157,6429,6290,10,2021,October
+Uttar Pradesh,Sultanpur,Sultanpur,24-10-2021,7.214285714,6169,6390,6246,10,2021,October
+Uttar Pradesh,Sultanpur,Sultanpur,31-10-2021,7.357142857,6171,6450,6273,10,2021,October
+Uttar Pradesh,Sultanpur,Sultanpur,07-11-2021,6.785714286,6200,6400,6261,11,2021,November
+Uttar Pradesh,Sultanpur,Sultanpur,14-11-2021,8.785714286,6153,6400,6288,11,2021,November
+Uttar Pradesh,Sultanpur,Sultanpur,21-11-2021,7.071428571,6321,6587,6443,11,2021,November
+Uttar Pradesh,Sultanpur,Sultanpur,28-11-2021,5.642857143,6529,6734,6632,11,2021,November
+Uttar Pradesh,Sultanpur,Sultanpur,05-12-2021,8,6493,6793,6636,12,2021,December
+Uttar Pradesh,Sultanpur,Sultanpur,12-12-2021,11.64285714,6400,6689,6527,12,2021,December
+Uttar Pradesh,Sultanpur,Sultanpur,19-12-2021,10.07142857,6457,6757,6601,12,2021,December
+Uttar Pradesh,Sultanpur,Sultanpur,26-12-2021,7.357142857,6493,6797,6648,12,2021,December
+Uttar Pradesh,Sultanpur,Sultanpur,02-01-2022,6.857142857,6314,6593,6437,1,2022,January
+Uttar Pradesh,Sultanpur,Sultanpur,09-01-2022,7.714285714,5959,6293,6144,1,2022,January
+Uttar Pradesh,Sultanpur,Sultanpur,16-01-2022,8.428571429,5871,6127,6016,1,2022,January
+Uttar Pradesh,Sultanpur,Sultanpur,23-01-2022,6.142857143,6171,6464,6310,1,2022,January
+Uttar Pradesh,Sultanpur,Sultanpur,30-01-2022,5.928571429,6271,6543,6396,1,2022,January
+Uttar Pradesh,Sultanpur,Sultanpur,06-02-2022,5.642857143,6386,6614,6471,2,2022,February
+Uttar Pradesh,Sultanpur,Sultanpur,13-02-2022,6.714285714,6500,6644,6556,2,2022,February
+Uttar Pradesh,Sultanpur,Sultanpur,20-02-2022,6.428571429,6521,6754,6636,2,2022,February
+Uttar Pradesh,Sultanpur,Sultanpur,27-02-2022,5.6,6570,6920,6730,2,2022,February
+Uttar Pradesh,Sultanpur,Sultanpur,04-09-2022,13.75,6100,6338,6200,9,2022,September
+Uttar Pradesh,Sultanpur,Sultanpur,11-09-2022,10.5,5934,6145,6040,9,2022,September
+Uttar Pradesh,Sultanpur,Sultanpur,18-09-2022,10.42857143,5671,5926,5771,9,2022,September
+Uttar Pradesh,Sultanpur,Sultanpur,25-09-2022,12,5591,5833,5701,9,2022,September
+Uttar Pradesh,Sultanpur,Sultanpur,02-10-2022,15,5887,6256,6026,10,2022,October
+Uttar Pradesh,Sultanpur,Sultanpur,09-10-2022,12.64285714,5850,6085,5970,10,2022,October
+Uttar Pradesh,Sultanpur,Sultanpur,16-10-2022,11.71428571,5736,5975,5845,10,2022,October
+Uttar Pradesh,Sultanpur,Sultanpur,23-10-2022,13.64285714,5436,5683,5560,10,2022,October
+Uttar Pradesh,Sultanpur,Sultanpur,30-10-2022,12.42857143,5426,5630,5519,10,2022,October
+Uttar Pradesh,Sultanpur,Sultanpur,06-11-2022,12.57142857,5339,5531,5423,11,2022,November
+Uttar Pradesh,Sultanpur,Sultanpur,13-11-2022,14.14285714,5443,5724,5554,11,2022,November
+Uttar Pradesh,Sultanpur,Sultanpur,20-11-2022,12.64285714,5367,5623,5479,11,2022,November
+Uttar Pradesh,Sultanpur,Sultanpur,27-11-2022,9.785714286,5166,5396,5294,11,2022,November
+Uttar Pradesh,Sultanpur,Sultanpur,04-12-2022,11.02857143,5217,5410,5320,12,2022,December
+Uttar Pradesh,Sultanpur,Sultanpur,11-12-2022,10.5,5183,5389,5274,12,2022,December
+Uttar Pradesh,Sultanpur,Sultanpur,18-12-2022,9.142857143,5258,5464,5347,12,2022,December
+Uttar Pradesh,Sultanpur,Sultanpur,25-12-2022,8.142857143,5214,5519,5402,12,2022,December
+Himachal Pradesh,Solan,Solan,06-01-2013,1.826666667,3833,6500,5100,1,2013,January
+Himachal Pradesh,Solan,Solan,13-01-2013,0.515714286,4000,7143,5614,1,2013,January
+Himachal Pradesh,Solan,Solan,20-01-2013,0.216666667,4000,7000,5167,1,2013,January
+Himachal Pradesh,Solan,Solan,27-01-2013,0.263333333,4000,7333,4833,1,2013,January
+Himachal Pradesh,Solan,Solan,03-02-2013,0.32,4000,7429,5286,2,2013,February
+Himachal Pradesh,Solan,Solan,10-02-2013,0.215714286,4000,7571,5114,2,2013,February
+Himachal Pradesh,Solan,Solan,17-02-2013,0.261428571,4000,8000,5714,2,2013,February
+Himachal Pradesh,Solan,Solan,24-02-2013,0.337142857,4000,8286,6043,2,2013,February
+Himachal Pradesh,Solan,Solan,01-09-2013,1089.31,1400,5000,2400,9,2013,September
+Himachal Pradesh,Solan,Solan,08-09-2013,1109.247143,1429,5071,2357,9,2013,September
+Himachal Pradesh,Solan,Solan,15-09-2013,805.01,1400,4500,2171,9,2013,September
+Himachal Pradesh,Solan,Solan,22-09-2013,702.8228571,1400,4500,2200,9,2013,September
+Himachal Pradesh,Solan,Solan,29-09-2013,367.07,1400,4500,2157,9,2013,September
+Himachal Pradesh,Solan,Solan,06-10-2013,220.5128571,1400,4643,2286,10,2013,October
+Himachal Pradesh,Solan,Solan,13-10-2013,86.76571429,1386,4643,3071,10,2013,October
+Himachal Pradesh,Solan,Solan,20-10-2013,42.01,1357,4571,3657,10,2013,October
+Himachal Pradesh,Solan,Solan,27-10-2013,19.17142857,1414,4500,4000,10,2013,October
+Himachal Pradesh,Solan,Solan,03-11-2013,10.12833333,1867,4300,3700,11,2013,November
+Himachal Pradesh,Solan,Solan,10-11-2013,0.88,2071,4286,3471,11,2013,November
+Himachal Pradesh,Solan,Solan,17-11-2013,0.797142857,2800,5786,3900,11,2013,November
+Himachal Pradesh,Solan,Solan,24-11-2013,0.745,3000,7833,5183,11,2013,November
+Himachal Pradesh,Solan,Solan,01-12-2013,0.71,3000,8000,4933,12,2013,December
+Himachal Pradesh,Solan,Solan,08-12-2013,0.955,2500,7350,4825,12,2013,December
+Himachal Pradesh,Solan,Solan,15-12-2013,0.892083333,2542,7571,4965,12,2013,December
+Himachal Pradesh,Solan,Solan,22-12-2013,0.829166667,2583,7792,5104,12,2013,December
+Himachal Pradesh,Solan,Solan,29-12-2013,0.76625,2625,8012,5244,12,2013,December
+Himachal Pradesh,Solan,Solan,05-01-2014,0.703333333,2667,8233,5383,1,2014,January
+Himachal Pradesh,Solan,Solan,12-01-2014,0.640416667,2708,8454,5523,1,2014,January
+Himachal Pradesh,Solan,Solan,19-01-2014,0.5775,2750,8675,5662,1,2014,January
+Himachal Pradesh,Solan,Solan,26-01-2014,0.514583333,2792,8896,5802,1,2014,January
+Himachal Pradesh,Solan,Solan,02-02-2014,0.451666667,2833,9117,5942,2,2014,February
+Himachal Pradesh,Solan,Solan,09-02-2014,0.38875,2875,9338,6081,2,2014,February
+Himachal Pradesh,Solan,Solan,16-02-2014,0.325833333,2917,9558,6221,2,2014,February
+Himachal Pradesh,Solan,Solan,23-02-2014,0.262916667,2958,9779,6360,2,2014,February
+Himachal Pradesh,Solan,Solan,07-09-2014,495.985,1662,6750,4206,9,2014,September
+Himachal Pradesh,Solan,Solan,14-09-2014,655.34,1560,6700,4130,9,2014,September
+Himachal Pradesh,Solan,Solan,21-09-2014,628.756,1590,7900,4745,9,2014,September
+Himachal Pradesh,Solan,Solan,28-09-2014,539.91,1833,7583,4708,9,2014,September
+Himachal Pradesh,Solan,Solan,05-10-2014,327.9133333,2000,7333,4667,10,2014,October
+Himachal Pradesh,Solan,Solan,12-10-2014,217.3,2000,7292,4646,10,2014,October
+Himachal Pradesh,Solan,Solan,19-10-2014,106.6866667,2000,7250,4625,10,2014,October
+Himachal Pradesh,Solan,Solan,26-10-2014,23.96,1800,6100,3945,10,2014,October
+Himachal Pradesh,Solan,Solan,02-11-2014,15.94666667,1896,7569,4732,11,2014,November
+Himachal Pradesh,Solan,Solan,09-11-2014,8.33,1750,5275,3512,11,2014,November
+Himachal Pradesh,Solan,Solan,16-11-2014,8.296,1600,3900,2750,11,2014,November
+Himachal Pradesh,Solan,Solan,23-11-2014,1.108,1700,4600,3150,11,2014,November
+Himachal Pradesh,Solan,Solan,30-11-2014,0.643333333,2000,7083,4542,11,2014,November
+Himachal Pradesh,Solan,Solan,07-12-2014,0.846666667,1500,6833,4167,12,2014,December
+Himachal Pradesh,Solan,Solan,14-12-2014,0.7,1000,5500,3250,12,2014,December
+Himachal Pradesh,Solan,Solan,21-12-2014,0.66,1500,7000,4250,12,2014,December
+Himachal Pradesh,Solan,Solan,28-12-2014,1.168,1800,4200,3000,12,2014,December
+Himachal Pradesh,Solan,Solan,04-01-2015,0.796,1900,4000,3010,1,2015,January
+Himachal Pradesh,Solan,Solan,11-01-2015,0.944,1600,4600,3100,1,2015,January
+Himachal Pradesh,Solan,Solan,18-01-2015,0.896666667,1083,4708,2896,1,2015,January
+Himachal Pradesh,Solan,Solan,25-01-2015,1.356666667,1667,8033,5267,1,2015,January
+Himachal Pradesh,Solan,Solan,01-02-2015,1.021666667,2000,8017,5217,2,2015,February
+Himachal Pradesh,Solan,Solan,08-02-2015,0.686666667,2333,8000,5167,2,2015,February
+Himachal Pradesh,Solan,Solan,15-02-2015,0.575,3500,9500,6500,2,2015,February
+Himachal Pradesh,Solan,Solan,22-02-2015,0.645,3500,8000,5750,2,2015,February
+Himachal Pradesh,Solan,Solan,06-09-2015,479.56,1400,5200,3300,9,2015,September
+Himachal Pradesh,Solan,Solan,13-09-2015,672.188,1440,5880,3660,9,2015,September
+Himachal Pradesh,Solan,Solan,20-09-2015,501.108,1400,6320,3860,9,2015,September
+Himachal Pradesh,Solan,Solan,27-09-2015,345.808,1400,5800,3600,9,2015,September
+Himachal Pradesh,Solan,Solan,04-10-2015,348.0733333,1400,5550,3475,10,2015,October
+Himachal Pradesh,Solan,Solan,11-10-2015,206.6885714,1443,6371,3907,10,2015,October
+Himachal Pradesh,Solan,Solan,18-10-2015,94.13,1300,6025,3662,10,2015,October
+Himachal Pradesh,Solan,Solan,25-10-2015,46.65,1325,5750,3538,10,2015,October
+Himachal Pradesh,Solan,Solan,01-11-2015,28.80666667,1400,6367,3883,11,2015,November
+Himachal Pradesh,Solan,Solan,08-11-2015,21.74666667,2267,6608,4438,11,2015,November
+Himachal Pradesh,Solan,Solan,15-11-2015,14.68666667,3133,6850,4992,11,2015,November
+Himachal Pradesh,Solan,Solan,22-11-2015,7.626666667,4000,7092,5546,11,2015,November
+Himachal Pradesh,Solan,Solan,29-11-2015,0.566666667,4867,7333,6100,11,2015,November
+Himachal Pradesh,Solan,Solan,06-12-2015,1.053333333,2283,5767,4025,12,2015,December
+Himachal Pradesh,Solan,Solan,13-12-2015,0.516,1400,4620,3010,12,2015,December
+Himachal Pradesh,Solan,Solan,20-12-2015,0.76,4500,5750,5125,12,2015,December
+Himachal Pradesh,Solan,Solan,27-12-2015,0.77,4667,5792,5229,12,2015,December
+Himachal Pradesh,Solan,Solan,03-01-2016,0.78,4833,5833,5333,1,2016,January
+Himachal Pradesh,Solan,Solan,10-01-2016,0.57,4000,5000,4500,1,2016,January
+Himachal Pradesh,Solan,Solan,17-01-2016,0.13,1100,2100,1600,1,2016,January
+Himachal Pradesh,Solan,Solan,24-01-2016,0.505,4100,7300,5688,1,2016,January
+Himachal Pradesh,Solan,Solan,31-01-2016,0.53,4150,6717,5417,1,2016,January
+Himachal Pradesh,Solan,Solan,07-02-2016,0.555,4200,6133,5146,2,2016,February
+Himachal Pradesh,Solan,Solan,14-02-2016,0.58,4250,5550,4875,2,2016,February
+Himachal Pradesh,Solan,Solan,21-02-2016,0.902857143,3514,5286,4450,2,2016,February
+Himachal Pradesh,Solan,Solan,28-02-2016,0.626666667,2500,5800,4150,2,2016,February
+Himachal Pradesh,Solan,Solan,04-09-2016,388.7511111,2340,9636,5988,9,2016,September
+Himachal Pradesh,Solan,Solan,11-09-2016,403.7,2333,9783,6058,9,2016,September
+Himachal Pradesh,Solan,Solan,18-09-2016,339.55,1700,8938,5319,9,2016,September
+Himachal Pradesh,Solan,Solan,25-09-2016,281.148,2200,8850,5520,9,2016,September
+Himachal Pradesh,Solan,Solan,02-10-2016,243.16,2625,8575,5600,10,2016,October
+Himachal Pradesh,Solan,Solan,09-10-2016,248.3833333,2633,8632,5632,10,2016,October
+Himachal Pradesh,Solan,Solan,16-10-2016,253.6066667,2641,8689,5665,10,2016,October
+Himachal Pradesh,Solan,Solan,23-10-2016,258.83,2648,8745,5697,10,2016,October
+Himachal Pradesh,Solan,Solan,30-10-2016,264.0533333,2656,8802,5729,10,2016,October
+Himachal Pradesh,Solan,Solan,06-11-2016,269.2766667,2664,8859,5761,11,2016,November
+Himachal Pradesh,Solan,Solan,13-11-2016,274.5,2672,8916,5794,11,2016,November
+Himachal Pradesh,Solan,Solan,20-11-2016,279.7233333,2680,8972,5826,11,2016,November
+Himachal Pradesh,Solan,Solan,27-11-2016,284.9466667,2688,9029,5858,11,2016,November
+Himachal Pradesh,Solan,Solan,04-12-2016,290.17,2695,9086,5891,12,2016,December
+Himachal Pradesh,Solan,Solan,11-12-2016,295.3933333,2703,9143,5923,12,2016,December
+Himachal Pradesh,Solan,Solan,18-12-2016,300.6166667,2711,9199,5955,12,2016,December
+Himachal Pradesh,Solan,Solan,25-12-2016,305.84,2719,9256,5988,12,2016,December
+Himachal Pradesh,Solan,Solan,01-01-2017,311.0633333,2727,9313,6020,1,2017,January
+Himachal Pradesh,Solan,Solan,08-01-2017,316.2866667,2734,9370,6052,1,2017,January
+Himachal Pradesh,Solan,Solan,15-01-2017,321.51,2742,9427,6084,1,2017,January
+Himachal Pradesh,Solan,Solan,22-01-2017,326.7333333,2750,9483,6117,1,2017,January
+Himachal Pradesh,Solan,Solan,29-01-2017,331.9566667,2758,9540,6149,1,2017,January
+Himachal Pradesh,Solan,Solan,05-02-2017,337.18,2766,9597,6181,2,2017,February
+Himachal Pradesh,Solan,Solan,12-02-2017,342.4033333,2773,9654,6214,2,2017,February
+Himachal Pradesh,Solan,Solan,19-02-2017,347.6266667,2781,9710,6246,2,2017,February
+Himachal Pradesh,Solan,Solan,26-02-2017,352.85,2789,9767,6278,2,2017,February
+Himachal Pradesh,Solan,Solan,03-09-2017,493.88,3000,11300,7150,9,2017,September
+Himachal Pradesh,Solan,Solan,10-09-2017,403.508,3200,10050,6620,9,2017,September
+Himachal Pradesh,Solan,Solan,17-09-2017,451.82,3800,10050,6910,9,2017,September
+Himachal Pradesh,Solan,Solan,24-09-2017,388.8366667,4000,9233,6617,9,2017,September
+Himachal Pradesh,Solan,Solan,01-10-2017,235.965,3750,9675,6712,10,2017,October
+Himachal Pradesh,Solan,Solan,08-10-2017,189.42,3500,8350,5925,10,2017,October
+Himachal Pradesh,Solan,Solan,15-10-2017,81.72,3500,8950,6225,10,2017,October
+Himachal Pradesh,Solan,Solan,22-10-2017,68.88,3500,7500,5500,10,2017,October
+Himachal Pradesh,Solan,Solan,29-10-2017,3.076,3100,6440,4760,10,2017,October
+Himachal Pradesh,Solan,Solan,05-11-2017,4.01,2075,5500,3788,11,2017,November
+Himachal Pradesh,Solan,Solan,12-11-2017,2.629,3288,5760,4524,11,2017,November
+Himachal Pradesh,Solan,Solan,19-11-2017,1.248,4500,6020,5260,11,2017,November
+Himachal Pradesh,Solan,Solan,26-11-2017,1.23,4700,5725,5225,11,2017,November
+Himachal Pradesh,Solan,Solan,03-12-2017,1.324,5500,8360,6880,12,2017,December
+Himachal Pradesh,Solan,Solan,10-12-2017,1.1,5750,7200,6750,12,2017,December
+Himachal Pradesh,Solan,Solan,17-12-2017,1.04,5280,6400,5900,12,2017,December
+Himachal Pradesh,Solan,Solan,24-12-2017,1.176,4280,6120,5500,12,2017,December
+Himachal Pradesh,Solan,Solan,31-12-2017,1.045,5050,6900,5875,12,2017,December
+Himachal Pradesh,Solan,Solan,07-01-2018,1.323333333,4033,7467,5783,1,2018,January
+Himachal Pradesh,Solan,Solan,14-01-2018,1.192,3300,7120,4660,1,2018,January
+Himachal Pradesh,Solan,Solan,21-01-2018,1.24,4033,7617,4833,1,2018,January
+Himachal Pradesh,Solan,Solan,28-01-2018,0.846666667,4067,8133,4733,1,2018,January
+Himachal Pradesh,Solan,Solan,04-02-2018,0.975,4275,7150,5125,2,2018,February
+Himachal Pradesh,Solan,Solan,11-02-2018,0.995,4150,6500,4925,2,2018,February
+Himachal Pradesh,Solan,Solan,18-02-2018,1.195,4575,5975,5325,2,2018,February
+Himachal Pradesh,Solan,Solan,25-02-2018,0.975,4650,6250,5375,2,2018,February
+Himachal Pradesh,Solan,Solan,02-09-2018,388.39,2500,9000,6000,9,2018,September
+Himachal Pradesh,Solan,Solan,09-09-2018,305.324,2500,9240,6600,9,2018,September
+Himachal Pradesh,Solan,Solan,16-09-2018,257.984,2500,9220,6600,9,2018,September
+Himachal Pradesh,Solan,Solan,23-09-2018,253.1857143,2357,9071,6714,9,2018,September
+Himachal Pradesh,Solan,Solan,30-09-2018,123.0942857,2429,8357,6143,9,2018,September
+Himachal Pradesh,Solan,Solan,07-10-2018,146.8366667,2167,8750,6167,10,2018,October
+Himachal Pradesh,Solan,Solan,14-10-2018,44.20857143,2143,8214,6000,10,2018,October
+Himachal Pradesh,Solan,Solan,21-10-2018,17.3,2200,7500,5800,10,2018,October
+Himachal Pradesh,Solan,Solan,28-10-2018,13.49666667,2500,9950,6000,10,2018,October
+Himachal Pradesh,Solan,Solan,04-11-2018,5.963333333,2500,9833,6500,11,2018,November
+Himachal Pradesh,Solan,Solan,11-11-2018,0.906666667,2500,10333,7000,11,2018,November
+Himachal Pradesh,Solan,Solan,18-11-2018,3.437142857,3671,8429,6143,11,2018,November
+Himachal Pradesh,Solan,Solan,25-11-2018,1.673333333,3750,10167,5800,11,2018,November
+Himachal Pradesh,Solan,Solan,02-12-2018,1.325714286,3500,8143,5714,12,2018,December
+Himachal Pradesh,Solan,Solan,09-12-2018,1.056666667,3500,9000,6000,12,2018,December
+Himachal Pradesh,Solan,Solan,16-12-2018,2.06,3333,9000,6667,12,2018,December
+Himachal Pradesh,Solan,Solan,23-12-2018,1.702857143,3643,8714,6429,12,2018,December
+Himachal Pradesh,Solan,Solan,30-12-2018,0.966666667,3750,9000,6000,12,2018,December
+Himachal Pradesh,Solan,Solan,06-01-2019,1.111428571,3214,9000,6000,1,2019,January
+Himachal Pradesh,Solan,Solan,13-01-2019,0.944,3200,9000,6000,1,2019,January
+Himachal Pradesh,Solan,Solan,20-01-2019,1.268571429,3286,8429,6000,1,2019,January
+Himachal Pradesh,Solan,Solan,27-01-2019,0.788,3400,8200,5800,1,2019,January
+Himachal Pradesh,Solan,Solan,03-02-2019,1.04,3429,7857,5786,2,2019,February
+Himachal Pradesh,Solan,Solan,10-02-2019,1.168571429,4000,7500,5857,2,2019,February
+Himachal Pradesh,Solan,Solan,17-02-2019,0.76,3714,7157,5571,2,2019,February
+Himachal Pradesh,Solan,Solan,24-02-2019,0.97,4000,7167,5667,2,2019,February
+Himachal Pradesh,Solan,Solan,01-09-2019,0.66,3000,8000,6000,9,2019,September
+Himachal Pradesh,Solan,Solan,08-09-2019,610.0066667,3000,7900,5083,9,2019,September
+Himachal Pradesh,Solan,Solan,15-09-2019,626.4285714,3000,7943,4571,9,2019,September
+Himachal Pradesh,Solan,Solan,22-09-2019,488.7433333,2500,7517,4500,9,2019,September
+Himachal Pradesh,Solan,Solan,29-09-2019,396.7833333,2917,8550,4417,9,2019,September
+Himachal Pradesh,Solan,Solan,06-10-2019,218.268,4000,7960,4500,10,2019,October
+Himachal Pradesh,Solan,Solan,13-10-2019,179.615,4000,7875,4500,10,2019,October
+Himachal Pradesh,Solan,Solan,20-10-2019,152.9485714,4000,7757,4500,10,2019,October
+Himachal Pradesh,Solan,Solan,27-10-2019,69.03,4000,8000,4500,10,2019,October
+Himachal Pradesh,Solan,Solan,03-11-2019,19.76,4000,7417,4500,11,2019,November
+Himachal Pradesh,Solan,Solan,10-11-2019,20.91333333,4000,7000,4500,11,2019,November
+Himachal Pradesh,Solan,Solan,17-11-2019,2.89,4000,9000,5000,11,2019,November
+Himachal Pradesh,Solan,Solan,24-11-2019,1.24,4000,9000,5000,11,2019,November
+Himachal Pradesh,Solan,Solan,01-12-2019,0.361666667,4000,8667,5000,12,2019,December
+Himachal Pradesh,Solan,Solan,08-12-2019,0.4375,5000,9000,6000,12,2019,December
+Himachal Pradesh,Solan,Solan,15-12-2019,0.876,5000,8100,6200,12,2019,December
+Himachal Pradesh,Solan,Solan,22-12-2019,0.934,3300,7900,5740,12,2019,December
+Himachal Pradesh,Solan,Solan,29-12-2019,0.464,2500,8000,4700,12,2019,December
+Himachal Pradesh,Solan,Solan,05-01-2020,0.931428571,2500,5957,4543,1,2020,January
+Himachal Pradesh,Solan,Solan,12-01-2020,0.433333333,2500,6000,5000,1,2020,January
+Himachal Pradesh,Solan,Solan,19-01-2020,0.5,3625,7500,5750,1,2020,January
+Himachal Pradesh,Solan,Solan,26-01-2020,1.126666667,4000,9333,6000,1,2020,January
+Himachal Pradesh,Solan,Solan,02-02-2020,0.46,3500,7333,5500,2,2020,February
+Himachal Pradesh,Solan,Solan,09-02-2020,0.593333333,3000,6000,5000,2,2020,February
+Himachal Pradesh,Solan,Solan,16-02-2020,9.54,3000,8333,5667,2,2020,February
+Himachal Pradesh,Solan,Solan,23-02-2020,0.692,3000,6480,5100,2,2020,February
+Himachal Pradesh,Solan,Solan,06-09-2020,363.4633333,2550,8300,5667,9,2020,September
+Himachal Pradesh,Solan,Solan,13-09-2020,304.9657143,2400,7714,5000,9,2020,September
+Himachal Pradesh,Solan,Solan,20-09-2020,245.4816667,3833,8217,5000,9,2020,September
+Himachal Pradesh,Solan,Solan,27-09-2020,302.3057143,4000,7886,4971,9,2020,September
+Himachal Pradesh,Solan,Solan,04-10-2020,230.2257143,4000,7457,4900,10,2020,October
+Himachal Pradesh,Solan,Solan,11-10-2020,151.4033333,4000,7500,5000,10,2020,October
+Himachal Pradesh,Solan,Solan,18-10-2020,116.4,4000,7250,4750,10,2020,October
+Himachal Pradesh,Solan,Solan,25-10-2020,60.26285714,4000,6686,4714,10,2020,October
+Himachal Pradesh,Solan,Solan,01-11-2020,44.29,4000,6100,4750,11,2020,November
+Himachal Pradesh,Solan,Solan,08-11-2020,19.40285714,3786,5914,4714,11,2020,November
+Himachal Pradesh,Solan,Solan,15-11-2020,12.15333333,3083,6867,4917,11,2020,November
+Himachal Pradesh,Solan,Solan,22-11-2020,2.84,3500,6943,5071,11,2020,November
+Himachal Pradesh,Solan,Solan,29-11-2020,3.126666667,3250,6333,4917,11,2020,November
+Himachal Pradesh,Solan,Solan,06-12-2020,0.77,3583,6417,4917,12,2020,December
+Himachal Pradesh,Solan,Solan,13-12-2020,0.506666667,4250,7883,5750,12,2020,December
+Himachal Pradesh,Solan,Solan,20-12-2020,0.396666667,3167,8433,5833,12,2020,December
+Himachal Pradesh,Solan,Solan,27-12-2020,0.292,3000,8480,6000,12,2020,December
+Himachal Pradesh,Solan,Solan,03-01-2021,0.34,3000,8120,6000,1,2021,January
+Himachal Pradesh,Solan,Solan,10-01-2021,0.333333333,3333,8000,6000,1,2021,January
+Himachal Pradesh,Solan,Solan,17-01-2021,5.86,4167,8033,5750,1,2021,January
+Himachal Pradesh,Solan,Solan,24-01-2021,0.236666667,6000,9000,6667,1,2021,January
+Himachal Pradesh,Solan,Solan,31-01-2021,0.245,4500,7000,6000,1,2021,January
+Himachal Pradesh,Solan,Solan,07-02-2021,0.192,5700,11100,8000,2,2021,February
+Himachal Pradesh,Solan,Solan,14-02-2021,0.276666667,5667,10667,7500,2,2021,February
+Himachal Pradesh,Solan,Solan,21-02-2021,0.192,3000,10000,5800,2,2021,February
+Himachal Pradesh,Solan,Solan,28-02-2021,0.14,4500,11333,6833,2,2021,February
+Himachal Pradesh,Solan,Solan,05-09-2021,509.4666667,3000,10333,6000,9,2021,September
+Himachal Pradesh,Solan,Solan,12-09-2021,396.665,3000,10312,6000,9,2021,September
+Himachal Pradesh,Solan,Solan,19-09-2021,292.7866667,3000,11250,6167,9,2021,September
+Himachal Pradesh,Solan,Solan,26-09-2021,245.1011111,3333,10200,6111,9,2021,September
+Himachal Pradesh,Solan,Solan,03-10-2021,197.4155556,3667,9150,6056,10,2021,October
+Himachal Pradesh,Solan,Solan,10-10-2021,149.73,4000,8100,6000,10,2021,October
+Himachal Pradesh,Solan,Solan,17-10-2021,132.7033333,4000,8767,6000,10,2021,October
+Himachal Pradesh,Solan,Solan,24-10-2021,53.29714286,3429,8371,5900,10,2021,October
+Himachal Pradesh,Solan,Solan,31-10-2021,32.73,4833,7417,6333,10,2021,October
+Himachal Pradesh,Solan,Solan,07-11-2021,21.03,4250,6417,5333,11,2021,November
+Himachal Pradesh,Solan,Solan,14-11-2021,1.22,4000,6000,5000,11,2021,November
+Himachal Pradesh,Solan,Solan,21-11-2021,0.01,4500,6750,5650,11,2021,November
+Himachal Pradesh,Solan,Solan,28-11-2021,0.0175,4000,8750,6000,11,2021,November
+Himachal Pradesh,Solan,Solan,05-12-2021,0.026666667,4333,9000,6000,12,2021,December
+Himachal Pradesh,Solan,Solan,12-12-2021,0.01,4000,9500,6500,12,2021,December
+Himachal Pradesh,Solan,Solan,19-12-2021,0.0125,4000,9000,7000,12,2021,December
+Himachal Pradesh,Solan,Solan,26-12-2021,0.01,5333,9000,7000,12,2021,December
+Himachal Pradesh,Solan,Solan,02-01-2022,0.01,6000,9250,7000,1,2022,January
+Himachal Pradesh,Solan,Solan,09-01-2022,0.01,6000,12000,7000,1,2022,January
+Himachal Pradesh,Solan,Solan,16-01-2022,0.01,5000,8000,7000,1,2022,January
+Himachal Pradesh,Solan,Solan,23-01-2022,0.01,5000,8500,7000,1,2022,January
+Himachal Pradesh,Solan,Solan,30-01-2022,0.01,6500,9250,8250,1,2022,January
+Himachal Pradesh,Solan,Solan,06-02-2022,0.01,7333,10000,8000,2,2022,February
+Himachal Pradesh,Solan,Solan,13-02-2022,9.817575758,7172,9974,7917,2,2022,February
+Himachal Pradesh,Solan,Solan,20-02-2022,19.62515152,7010,9948,7833,2,2022,February
+Himachal Pradesh,Solan,Solan,27-02-2022,29.43272727,6848,9923,7750,2,2022,February
+Himachal Pradesh,Solan,Solan,04-09-2022,294.2372727,2485,9227,5500,9,2022,September
+Himachal Pradesh,Solan,Solan,11-09-2022,304.0448485,2323,9202,5417,9,2022,September
+Himachal Pradesh,Solan,Solan,18-09-2022,313.8524242,2162,9176,5333,9,2022,September
+Himachal Pradesh,Solan,Solan,25-09-2022,323.66,2000,9150,5250,9,2022,September
+Himachal Pradesh,Solan,Solan,02-10-2022,225.288,2000,8920,5300,10,2022,October
+Himachal Pradesh,Solan,Solan,09-10-2022,233.035,2000,9325,5500,10,2022,October
+Himachal Pradesh,Solan,Solan,16-10-2022,150.7133333,2000,8850,5583,10,2022,October
+Himachal Pradesh,Solan,Solan,23-10-2022,128.64,2250,9300,5875,10,2022,October
+Himachal Pradesh,Solan,Solan,30-10-2022,41.76,2500,7000,5333,10,2022,October
+Himachal Pradesh,Solan,Solan,06-11-2022,19.024,2500,7360,5000,11,2022,November
+Himachal Pradesh,Solan,Solan,13-11-2022,12.29,2500,5625,4750,11,2022,November
+Himachal Pradesh,Solan,Solan,20-11-2022,6.346666667,2500,5383,4750,11,2022,November
+Himachal Pradesh,Solan,Solan,27-11-2022,2.096666667,2500,7500,4917,11,2022,November
+Himachal Pradesh,Solan,Solan,04-12-2022,1.71,5583,7250,6333,12,2022,December
+Himachal Pradesh,Solan,Solan,11-12-2022,1.64,5625,7250,6125,12,2022,December
+Himachal Pradesh,Solan,Solan,18-12-2022,1.595,6000,7875,6625,12,2022,December
+Himachal Pradesh,Solan,Solan,25-12-2022,1.4,5833,8167,6167,12,2022,December
